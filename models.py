@@ -2,7 +2,8 @@ import os
 import sys
 from os.path import expanduser
 from pathlib import Path
-from sklearn.base import BaseEstimator, ClassifierMixin
+from sklearn.base import BaseEstimator, ClassifierMixin, TransformerMixin
+
 from sklearn.neighbors import KNeighborsClassifier
 import tempfile
 from sklearn.utils.multiclass import unique_labels
@@ -38,16 +39,62 @@ class LASERClassifier(BaseEstimator, ClassifierMixin):
         else:
             raise ValueError("Unknown base classifier")
 
-    # Function for encoding senteces using the LASER model. Code was adapted from 
-    # Arguments:
-    # in_file: path to file with the sentences
-    # lang: the language to encode
-    def _vectorize(self,in_file,lang):
 
+    def fit(self, X, y):
+
+        # Store the classes seen during fit
+        self.classes_ = unique_labels(y)
+        
+        self.n_samples, self.n_features = X.shape
+        
+        # Check that X and y have correct shape
+        X, y = check_X_y(X, y,accept_sparse=False)
+        
+        self.clf.fit(X,y)
+        # Return the classifier
+        return self
+
+    def predict(self, X):
+
+        # Check is fit had been called
+        # check_is_fitted(self, ['X_', 'y_'])
+
+        # Input validation
+        #X = check_array(X)
+        predictions = self.clf.predict(X)
+        
+        return predictions
+
+class Doc2Laser(BaseEstimator, TransformerMixin):
+    """Transform raw documents to their LASER representations.
+    """
+    def __init__(self,lang=None):
+        """
+        lang: the language to encode
+        """
+        self.lang = lang
+
+    def fit(self, X, y=None,**fit_params):
+        return self
+    
+    def _vectorize(self,docs):
+        """
+        Function for encoding senteces using the LASER model. Code was adapted from 
+        
+        Arguments:
+        docs: the documents to encode, an iterable
+        lang: the language to encode
+        """
         embedding = ''
-        if lang is None or not lang:
+        if self.lang is None or not self.lang:
             lang = "en"
+            print("Warning: using default language English")
+        else:
+            lang = self.lang
+            
         # encoder
+        
+        
         model_dir = os.environ.get('LASER')+"models"
         encoder_path = model_dir +"/" + "bilstm.93langs.2018-12-26.pt"
         bpe_codes_path = model_dir+"/"+  "93langs.fcodes"
@@ -63,9 +110,12 @@ class LASERClassifier(BaseEstimator, ClassifierMixin):
             bpe_fname = tmpdir / 'bpe'
             bpe_oname = tmpdir / 'out.raw'
 
+            temp_infile = tmpdir / 'temp_in_docs.txt'
+            np.savetxt(temp_infile,docs,fmt="%s")
+            
             if lang != '--':
                 tok_fname = tmpdir / "tok"
-                Token(str(in_file),
+                Token(str(temp_infile),
                       str(tok_fname),
                       lang=lang,
                       romanize=True if lang == 'el' else False,
@@ -92,22 +142,51 @@ class LASERClassifier(BaseEstimator, ClassifierMixin):
             embedding = X
 
             return X
+    
+    def transform(self, X):
+        X_laser = self._vectorize(X)
+        return X_laser
 
+    
+class nBowClassifier(BaseEstimator, ClassifierMixin):
+
+    def __init__(self, base_classifier = "knn",V_source=None,V_target=None,params={}):
+        self.base_classifier = base_classifier
+        self.V_source = V_source
+        self.V_target = V_target
+        self.params = params
+        
+        if base_classifier =="knn":
+            self.clf = KNeighborsClassifier(**params)
+        #elif base_classifier=="mlp" #TODO: add support for an MPL classifier
+        else:
+            raise ValueError("Unknown base classifier")
+
+    # neural bag-of-words baseline
+    # average word embeddings of each document
+    # V_emb: this holds the embedding of each word
+    # X: the vectorized array of documents. Note that the indices of the features should correspond to the same indices in the V_emb array
+    def _nBOW(self,V_emb,X):
+        X_avg = []
+        for doc in X:
+            doc_vecs = V_emb[doc.indices,:]
+            avg_vec = np.sum((doc_vecs*doc.data[:,np.newaxis]),axis=0)/(doc.data.sum() + 1.0)
+            X_avg.append(avg_vec)
+        
+        return np.array(X_avg)
+    
     def fit(self, X, y):
 
         # Store the classes seen during fit
         self.classes_ = unique_labels(y)
         
-        tfile = tempfile.NamedTemporaryFile()
-        np.savetxt(tfile.name,X,fmt="%s")
-        
-        X_laser = self._vectorize(tfile.name,self.source_lang)
-        self.n_samples, self.n_features = X_laser.shape
+        X_avg = self._nBOW(self.V_source,X)
+        self.n_samples, self.n_features = X_avg.shape
         
         # Check that X and y have correct shape
-        X_laser, y = check_X_y(X_laser, y,accept_sparse=False)
+        X_avg, y = check_X_y(X_avg, y,accept_sparse=False)
         
-        self.clf.fit(X_laser,y)
+        self.clf.fit(X_avg,y)
         # Return the classifier
         return self
 
@@ -118,13 +197,7 @@ class LASERClassifier(BaseEstimator, ClassifierMixin):
 
         # Input validation
         #X = check_array(X)
-        tfile = tempfile.NamedTemporaryFile()
-        np.savetxt(tfile.name,X,fmt="%s")
-        
-        X_laser = self._vectorize(tfile.name,self.target_lang)
-        predictions = self.clf.predict(X_laser)
+        X_avg = self._nBOW(self.V_target,X)
+        predictions = self.clf.predict(X_avg)
         
         return predictions
-
-
-

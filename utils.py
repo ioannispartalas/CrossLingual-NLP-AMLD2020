@@ -43,12 +43,19 @@ def fit_vocab(corpora):
     all_words = CountVectorizer(lowercase=True).fit(corpora).vocabulary_ 
     return all_words
 
+def emb2numpy(embeddings_dico):
+    keys = []
+    values = []
+    for k in embeddings_dico:
+        keys.append(k)
+        values.append(embeddings_dico[k])
+    return keys,np.array(values)
+
 # Function to sort the array of embeddings according to the index
 # of the vocabulary.
 # Arguments:
 # X_emb: the embeddings dictionary which holds a vector for each word
 # word2index: mapping of word to index after fitting the vocabulary of the documents
-
 def sort_embeddings(X_emb,word2index):
     sorted_word2index = sorted(word2index.items(), key=lambda kv: kv[1])
     sortedEmbed  = []

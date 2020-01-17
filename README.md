@@ -21,3 +21,13 @@ You will need to install the [LASER](https://github.com/facebookresearch/LASER) 
 bash install_laser.sh
 ```
 
+Finally, download the dataset that we will use during the workshop:
+
+## Structure of the workshop
+The workshop structure is as follows:
+
+1. Brief introduction in text classification: [Intro](https://github.com/ioannispartalas/CrossLingual-NLP-AMLD2020/blob/master/Cross-lingual%20document%20classification.ipynb) 
+2. Introduction in cross-lingual word embeddings: [Cross-lingual word embeddings intro](https://github.com/ioannispartalas/CrossLingual-NLP-AMLD2020/blob/master/notebooks/Brief_into_to_Cross_Lingual_embeddings.ipynb) 
+3. Cross-lingual document classification:
+  1. Zero-shot learning using word embeddings.
+  2. Multi-lingual classification using sentence embeddings.

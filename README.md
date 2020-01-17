@@ -2,13 +2,19 @@
 Material for the hands-on workshop in the "Applied Machine Learning Days at EPFL 2020"
 
 ## Setup
-You should have installed the following python packages:
+You should have installed the following python 3 packages:
 ```
 numpy
 pandas
 scikit-learn
+torch
 umap-learn
 seaborn
+```
+
+In case you use Colab all these packages should be available. If it is not the case you can just use magic:
+```bash
+!pip install umap-learn torch seaborn
 ```
 
 The notebooks use the [ConceptNet Numberbatch](https://github.com/commonsense/conceptnet-numberbatch) embeddings. We provide a script to download them and extract them. You can do this by: 

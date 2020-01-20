@@ -7,11 +7,11 @@ from sklearn.metrics import accuracy_score,f1_score
 
 class Dataset:
     """Experiment class, that reads data in raw format and prints stats."""
-    def __init__(self, pathtodata,source_lang, target_lang):
+    def __init__(self, source_lang, target_lang):
         self.source_lang = source_lang
         self.target_lang = target_lang
-        self.tr_path = pathtodata+"semeval15.%s.train.csv" % source_lang
-        self.te_path = pathtodata+"semeval15.%s.test.csv" % target_lang
+        self.tr_path = "data/train/semeval15.%s.train.csv" % source_lang
+        self.te_path = "data/test/semeval15.%s.test.csv" % target_lang
     
     @staticmethod
     def read_csv(path):

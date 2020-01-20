@@ -1,5 +1,5 @@
 echo "Checking out github repo"
-INSTALL_PATH="${HOME}/projs"
+INSTALL_PATH="${HOME}/projects"
 echo ${INSTALL_PATH}
 mkdir "${INSTALL_PATH}"
 cd "${INSTALL_PATH}"

@@ -27,17 +27,11 @@ from embed import *
 
 class LASERClassifier(BaseEstimator, ClassifierMixin):
 
-    def __init__(self, base_classifier = "knn",source_lang=None,target_lang=None,params={}):
+    def __init__(self, base_classifier = KNeighborsClassifier(n_neighbors=2) ,source_lang=None,target_lang=None):
         self.base_classifier = base_classifier
         self.source_lang  = source_lang
         self.target_lang  = target_lang
-        self.params = params
-        
-        if base_classifier =="knn":
-            self.clf = KNeighborsClassifier(**params)
-        #elif base_classifier=="mlp" #TODO: add support for an MPL classifier
-        else:
-            raise ValueError("Unknown base classifier")
+        self.clf = base_classifier
 
 
     def fit(self, X, y):
@@ -65,6 +59,8 @@ class LASERClassifier(BaseEstimator, ClassifierMixin):
         
         return predictions
 
+    
+    
 class Doc2Laser(BaseEstimator, TransformerMixin):
     """Transform raw documents to their LASER representations.
     """
@@ -150,17 +146,12 @@ class Doc2Laser(BaseEstimator, TransformerMixin):
     
 class nBowClassifier(BaseEstimator, ClassifierMixin):
 
-    def __init__(self, base_classifier = "knn",V_source=None,V_target=None,params={}):
+    def __init__(self, base_classifier = KNeighborsClassifier(n_neighbors=2),V_source=None,V_target=None,params={}):
         self.base_classifier = base_classifier
         self.V_source = V_source
         self.V_target = V_target
         self.params = params
-        
-        if base_classifier =="knn":
-            self.clf = KNeighborsClassifier(**params)
-        #elif base_classifier=="mlp" #TODO: add support for an MPL classifier
-        else:
-            raise ValueError("Unknown base classifier")
+        self.clf = base_classifier
 
     # neural bag-of-words baseline
     # average word embeddings of each document

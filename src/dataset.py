@@ -1,17 +1,17 @@
 import pandas as pd
 import numpy as np
-from utils import load_embeddings,fit_vocab,sort_embeddings
+from .utils import load_embeddings,fit_vocab,sort_embeddings
 from ast import literal_eval
 from collections import Counter
 from sklearn.metrics import accuracy_score,f1_score
 
 class Dataset:
     """Experiment class, that reads data in raw format and prints stats."""
-    def __init__(self, source_lang, target_lang):
+    def __init__(self, path,source_lang, target_lang):
         self.source_lang = source_lang
         self.target_lang = target_lang
-        self.tr_path = "data/train/semeval15.%s.train.csv" % source_lang
-        self.te_path = "data/test/semeval15.%s.test.csv" % target_lang
+        self.tr_path = path +"semeval15.%s.train.csv" % source_lang
+        self.te_path = path +"semeval15.%s.test.csv" % target_lang
     
     @staticmethod
     def read_csv(path):

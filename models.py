@@ -145,6 +145,8 @@ class Doc2Laser(BaseEstimator, TransformerMixin):
 
     
 class nBowClassifier(BaseEstimator, ClassifierMixin):
+    """Model that averages the cross-lingual representations in the document and learns a classifier on top of it.
+    """
 
     def __init__(self, base_classifier = KNeighborsClassifier(n_neighbors=2),V_source=None,V_target=None,params={}):
         self.base_classifier = base_classifier

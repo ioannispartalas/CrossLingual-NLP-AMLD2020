@@ -65,3 +65,6 @@ def sort_embeddings(X_emb,word2index):
         except:
             sortedEmbed.append(np.zeros(300))
     return np.array(sortedEmbed)
+
+def format_score(x):
+    return "{:.2f}".format(x*100.0)

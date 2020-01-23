@@ -42,3 +42,9 @@ The workshop structure is as follows:
 3. Cross-lingual document classification:
     1. Zero-shot learning using word embeddings.
     2. Multi-lingual classification using sentence embeddings.
+
+## Exercises
+1. Repeat the experiments for various language pairs
+2. Add hyper-parameter tuning
+3. Repeat the experiments with other embeddings (e.g., [MUSE](https://github.com/facebookresearch/MUSE), [Ferreira et al.](http://www.cs.cmu.edu/~afm/projects/multilingual_embeddings.html), etc..)
+4. Explore the world of Transformers (BERT etc.). You can take a look at [huffingface](https://github.com/huggingface/transformers)

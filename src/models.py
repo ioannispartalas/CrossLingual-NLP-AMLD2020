@@ -63,6 +63,10 @@ class LASERClassifier(BaseEstimator, ClassifierMixin):
     
 class Doc2Laser(BaseEstimator, TransformerMixin):
     """Transform raw documents to their LASER representations.
+    
+    Parameters:
+    -------------
+    lang: the language to encode
     """
     def __init__(self,lang=None):
         """

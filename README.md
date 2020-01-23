@@ -1,5 +1,10 @@
 # CrossLingual-NLP-AMLD2020
-Material for the hands-on workshop in the "Applied Machine Learning Days at EPFL 2020"
+Material for the hands-on workshop in the ["Applied Machine Learning Days at EPFL 2020"](https://appliedmldays.org/workshops/cross-lingual-natural-language-processing)
+
+Authors:
+- Ioannis Partalas
+- Georgios Balikas
+- Eric Bruno
 
 ## Setup
 You should have installed the following python 3 packages:

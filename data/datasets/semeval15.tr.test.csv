@@ -1,1105 +1,125 @@
 ,text,polarities
-0,Manzara sahane evet ama servis rezalet.,"['negative', 'positive']"
-1,"Soguk su isteyince, soguk yok, butun sulari disari cikardik diyen garson, siparisten tam 2 saat sonra gelen yemekler, yemegin yaninda soylenen roka ve pureden eser olmamasi, istedigimiz 2 mezenin de kalmamis olmasi.","['negative', 'negative']"
-2,"Yemekler iyi hos, lezzetler iyi ama heyecan verici bi taraflari yok, iyi bir baligi iyi bir sekilde izgara yapmak artik atla deve bi olay degil.","['positive', 'positive', 'neutral']"
-3,bu servise bu fiyatlar ise cok faZla.,['negative']
-4,Lacivert beni kalitesinin dusukluguyle cok sasirtti,['negative']
-5,Buraya bu kadar iyi yorum yapanlar her halde daha önce hiç balik yemediler.,['negative']
-6,Kalamardan ve koladan önce balik geldi ve apar topar önümüze atildi.,['negative']
-7,ayrica gelen kalamar soguk ve sünger gibiydi.,['negative']
-8,uzun lafin kisasi kesinlikle ve asla bir daha gitmem ve tavsiyede etmem.,['negative']
-9,Daha önce de söyledigim gibi büyüdükçe kalitesi düsen yerlerden,['negative']
-10,Kesinlikle ev yemegi degil - Bu kadar basarisiz ev yemekleri olmasina ragmen ögle saatlerinde ki yogunlugu çözebilmis degilim.,['negative']
-11,Ya insanlar gerçekten ev yemeginin nasil oldugunu bilmiyorlar.,['negative']
-12,Ya da herkes benim gibi 1 kere deniyor ve bir daha gitmiyor.,['negative']
-13,1 kere denedigim fiyatlarinin yüksek yemeklerinin lezzetsiz oldugu bir mekan önermiyorum.,"['negative', 'negative']"
-14,"mekanın girişinde kasap reyonu ışıltılı,sıcak bir ortam yaratılmaya çalışılmış manzara olmadığı için bulunduğu konumda pek samimi bulmadım.",['negative']
-15,garsonumuz ilgisizdi biz söyledikce yaptı buda benim restauranttan beklentimi zayıflatıyor.,['negative']
-16,lokumun daha iyisini yedim küşleme güzeldi.,"['positive', 'neutral']"
-17,bilemedim mekana daha sonra belki bir şans daha verebilirim.,['neutral']
-18,2 sene önce hızlı bir kahvaltı yapmak için geldiğimiz mekana dair hatırımda kalan 6 tl lik çayı oldu:,['negative']
-19,) menüde dikkat etmemiştik ama hesap gelince ufak bir şok yaşamıştık😩 güzel olabilir ama kahvaltıdan fazla ödediğimiz çay yüzünden bir daha uğramadık.,"['negative', 'positive']"
-20,Şatobiryanı öneririm.,['positive']
-21,Sosu tereyagli ve yumusak .,['positive']
-22,Sert et sevmeyenler icin cok lezzetliydi.,['positive']
-23,Guvecte yogurt ve salatayla iyi bir uclu oldu.,['positive']
-24,Servisi hizli valesi var.,['positive']
-25,Acik mekanda ise gardenya bolumu guzel.,['positive']
-26,Kalabalik icin ideal.,['positive']
-27,Bugun çalışan arkadasin yonlendirmesiyle siyah caylardan bourbon vanilla ictik.,['neutral']
-28,Vanilya tadi gerçekten baya hissediliyodu ama ben beyaz caylarini daha cok begenmistim.,['positive']
-29,"Ortam güzel,özellikle rahat oturma köşeleri👌 Esas kahve sever biri oldugum icin cok tercih ettigim mekan değil ama yine de arada degisiklik icin guzel olabilir.","['positive', 'positive']"
-30,Yoğun olduğu günlerde(cumartes-pazar) gitmenizi tavsiye etmem.,['negative']
-31,Şubelerden en iyisi Pendik merkez ana şubesi iyidir.,['positive']
-32,Bugüne kadar dışarıda yediğim en lezzetli kurufasülyeci.,['positive']
-33,"Fasulyesi ağızda dağılıyor adeta, lokum gibi.",['positive']
-34,Duyduğum kadarıyla suda değil sütte bekletiyorlarmış.,['neutral']
-35,"Yanında turşu, cacık veya yoğurtla harika oluyor.",['positive']
-36,"Pilavı da çok lezzetli, mis gibi tereyağ kokuyor.","['positive', 'positive']"
-37,Finali sütlaçla yapmanızı tavsiye ediyorum.,['positive']
-38,Sütlacı da enfes.,['positive']
-39,"Hard Rock Cafe'de hiç sıra beklemeden oturmaya alışık değiliz ki biz, Avrupa veya Amerika'dakilerle aynı duyguyu vermiyor bu sebeple ama lezzet tabii yine aynı.","['positive', 'neutral']"
-40,Atıştırmalık Jumbo Combo pek yummy!,['positive']
-41,Deniz ürünleri çok başarılı.,['positive']
-42,Manzarası zaten mükemmel.,['positive']
-43,"Bütün istanbul'un güzelliğini, yoğunluğunu hissediyorsun.",['positive']
-44,Onun dışında pek öğrenci mekanı değil.,['neutral']
-45,"Özel günlerde gidilecek, küçük kutlamalar yapılacak bir yer",['neutral']
-46,"Rahatça sohbet edebilmek istiyorsanız, orta mükemmel.",['positive']
-47,"Çalan müzik tam kıvamında, rahatsız etmiyor.",['positive']
-48,"Yemekleri çok lezzetli, manzara mükemmel.","['positive', 'positive']"
-49,"ancak hesap biraz abartılı geliyor, balık yemeden kişi başı 100 liradan fazla ödedik, itiraz etmek gerekir.",['negative']
-50,Kalabalik zamanlarda servis fazlasiyla aksiyor.,['negative']
-51,"Bosken soylemis oldugum makarna ne kadar hizli geldiyse, mekanin dolmasiyla arkadasimin soylemis oldugu siparis unutuldu, defalarca hatirlatma yapmamiz gerekti.",['negative']
-52,Ayrica masalarin fazla ic ice olmasi zaman zaman rahatsiz olmaniza neden olabiliyor,['negative']
-53,"Kış aylarında içerideki sıcak ve loş ışıklı ortamında güzel yemekler yiyebilir, yazın da dışarıda o harika çilekli magnoliasından tadabilirsiniz.","['positive', 'positive', 'positive']"
-54,İçinizi serinletecek enfes bir tat.,['positive']
-55,Garsonlar suratsiz.,['negative']
-56,Bu kadar methedilmeyi hakketmiyor.,['negative']
-57,Kasarli köftenin içinde kasar olmayan ve köfte ustasi geçinen bir yer!,"['negative', 'negative']"
-58,Isletme sahibi kaba.,['negative']
-59,Bizim kasarli köfte tanimimiz böyle diyor sadece!,['negative']
-60,Müsteri memnuniyeti sifir!,['negative']
-61,"Yılların Sampi'si, canım pide istediğimde eve sipariş için tercih ettiğim yerlerdendir.",['positive']
-62,O zaman keşke başlangıçlarda menüde yer almasa!,['negative']
-63,Beşiktaş'ta tam otobüs duraklarının arkasında olmasından dolayı ulaşımı çok kolay ve fiyatları elbette çok makul.,"['positive', 'positive']"
-64,"Ben çıtır pide sevenlerdenim, dolayısıyla siparişi verirken özellikle rica ettim ve gerçekten de çitir çitir pide geldi.",['positive']
-65,Ancak maalesef birlikte gittiğim arkadaşlarım hiç sevmezmiş çıtır pideyi ve tabii ki onların ki de çıtır geldi.,['negative']
-66,Neyse tadı paket servisten elbette çok daha iyidi neticede beklemeden yeme imkanınız var.,['positive']
-67,"Malzemesi bol, porsiyonu tam kıvamındaydı.","['positive', 'positive']"
-68,Beşiktaş'ın göbeğinde.,['positive']
-69,Ve deneyim maalesef çok da olumlu olmadı.,['negative']
-70,"Pide lezzeti lafım yok, ama sipariş verirken bir arkadaşımızın kenarlarını çıtır çıtır istemesini yanlış anlamış olacak ki, tüm siparişleri çıtır çıtır getirdi.","['positive', 'negative']"
-71,"Sevmediğimden yiyemedim kenarlarını, ama ortası pek lezizdi.","['positive', 'negative']"
-72,"Başlangıç için menüde başlangıçlarda yer alan lahmacunun, ana yiyecek pideden daha geç gelecek olması ise ayrı bi durumdu tabii.",['negative']
-73,"Yemek yemek için çok fazla vaktiniz yoksa, bütçeyi çok sarsmayalım, çok keyifli yemek yemesek de olur yeter ki karnımız doysun diye düşünenler için Çarşı'nın göbeğinde Sampi gayet ideal.","['negative', 'positive']"
-74,"4 sicak iceceklerde servis agir, kahvalti icin tercih edilwbilir olsa da lezzete gore fiyat yuksek kaliyor.","['positive', 'negative', 'negative']"
-75,Mutlaka bir hafta önceden rezarvasyon yaptırın iyi bir rum meyhanesi yemekleri başarılı olduğu gibi şahane bir manzarası var bu mekanın en büyük olayı sürekli ikram yapmalarıdır pahalı olmasına rağmen hak ediyor.,"['positive', 'positive', 'positive']"
-76,Mutlaka ızgara mantar ve istakoz kavurma deneyin gittiğim ve hiçbir zaman pişman olmadığım ender yerlerden biridir,"['positive', 'positive', 'positive']"
-77,Baliklarin yanina Rum ve ermeni mutfagindan mezelerde pek bir yakisiyor.,['positive']
-78,"kuskonmaz somon sarma,kagitta balik pastirma kesinlikle denenmeli.","['positive', 'positive']"
-79,Burada caylar harika!,['positive']
-80,Vanilla ve portakal aromasina doyamayacaginiz harika bir lezzet olmus.,['positive']
-81,Ortam muhabbet edebilmek icin gayet guzel fakat manzara beklentiniz var ise baska yeri tercih etmelisiniz.,"['negative', 'positive']"
-82,Tam tamina 60 farkli cesit cay bulabileceginiz bu mekani ziyaret etmelisiniz!,['positive']
-83,"Hoş bi mekan, severek giderim ve ayrılırken de memnuniyetle ayrılırım her zaman.",['positive']
-84,"Özellikle akşamları gidilmesini tavsiye ederim, köprünün ve hisarın ışıkları yandığında ayrı bi zevki var.",['positive']
-85,Hemde canlı müzikle :,['positive']
-86,Daha iyisi var.,['negative']
-87,Buranin doneri dedikleri kadar efsane degil.,['negative']
-88,"Eti yagli , kokuyor, ince dilinmis ve en kotusu aradan 3 saat gecmesine ragmen migdem bulaniyor.","['negative', 'negative']"
-89,Ortami da begenmedim kalabalik 3. Sinif bir yer.,['negative']
-90,Bir daha gitmem,['negative']
-91,"Eti lezzetli, mekan gösterişli.","['positive', 'positive']"
-92,Ama sunum resmen sıfır.,['negative']
-93,30 tl aldığınız hamburger için düz beyaz tabağa koymaktan öteye gidebilirsiniz bence?,['negative']
-94,Havuç dilimi ise aşırı yağlı ve şerbetli.,['negative']
-95,Pek yaratıcı özel bir yanı yok.,['negative']
-96,Pazar günü 14.30'a kadar kahvaltı dışı servis yapmayan Big Chefs!,['negative']
-97,"Kahvaltı sonrası kahve içmeye gittik, kapıdan döndük ve saat 13.30'du, şaka sandım bir an...",['negative']
-98,"Olmadı Big Chefs, zincirsin sen...",['negative']
-99,Menude yazilmis olmasina ragmen tavuk WRAPimiz patates ile gelmedi nedenini sordugumuz da patatesi kaldirdiklarini menulerini henuz degistirmediklerini soylediler.,['negative']
-100,Gelen tavuk Wrapten 5 dakika sonra biz kofte durum istememize ragmen tavuk sis dürümu geldi durumu soyledik ve degistirdiler.,['negative']
-101,"Tavuklar kupkuruydu, kofte durum ise siradandi.","['neutral', 'negative']"
-102,Ikisininde yanindaki yesillikler sus icin konulmus olup yemeye kalktigimizda aci bi tatla karsilastik.,['negative']
-103,"Zeytinyagli tabagi soyledik icinde fasulye, barbunya, biber dolmasi, sarma ve saksuka vardi.",['neutral']
-104,Tadlari yerindeydi fakat az koymak icin bayagi bi zorlamislar kendilerini.,"['negative', 'positive']"
-105,"Fiyatlar normal, servis cok yavaş, tuvaletler ise pis.","['negative', 'neutral', 'negative']"
-106,"güzel olan tek sey manzaraydi, evet çocuk oyun alani var bakimsiz servis elemanlari suratsiz, hele omlet yapan bir bayan var ki benim oturdugum masa dibindeydi gelen herkese bir surat bir tavir ben böyle birsey görmedim .","['negative', 'negative', 'positive']"
-107,"açik büfe kahvaltisi evet çesit çoktu ancak sunum beni tatmin etmedi, temizlik hijyen hissi uyandirmadi.","['positive', 'negative']"
-108,Hos mekan - Mekan yaklasik 3-4 aydir var Tuzla'da.,['positive']
-109,Gidilebilecek iyi yerlerden birisi.,['positive']
-110,Ilk açildigi ay gittigimizde çok memnun kalmistik ama daha sonraki gidislerimizde servisin çok fazla aksadigina ve garsonlarin yogunluk nedeni ile herkes ile ilgilenememesini gözlemledik.,"['negative', 'negative']"
-111,Çok az sayida garson çalisiyor ve bazen mekan dolu olunca yetemiyorlar.,['negative']
-112,Klasik dondurma spesiyalleri ve tatlililari var.,['neutral']
-113,"Internetten arastirip gittigim bir yerdi, ancak maalesef beklentilerimi çok karsilamadi.",['negative']
-114,Garsonlar istediginiz seyi en az iki kere istemeden maalesef getirmiyorlar.,['negative']
-115,Internetteki resimlerinden göründügü kadar güzel degildi.,['negative']
-116,Su böregi oldukça lezzetli idi.,['positive']
-117,Çay kötü müydü?,['neutral']
-118,"Hayir, çok taze ve lezzetliydi.",['positive']
-119,Beklentimin üstündeydi.,['positive']
-120,Her yönüyle ideal - Bizim okula çok yakin oldugu için çok sik gittigimiz bir yerdir ve muhtesemdir zaten manzarasi.,"['positive', 'positive']"
-121,Yazin daha zevkli oluyor manzaraya karsi oturmasi.,['positive']
-122,Marmara ögrencilerine de indirimli fiyat uygulamasi var.,['positive']
-123,O yüzden de bizim için avantajli oluyor.,['positive']
-124,"Gözleme yapan teyzeler de var bu yil, kumpir servisine de basladilar.",['positive']
-125,Kuaförü de çok ucuz ve iyi ayrica.,['positive']
-126,Daha ne olsun =),['positive']
-127,Güzel manzara ancak fiyat performans olarak mutfak yeterli değil.,"['positive', 'negative']"
-128,Bu kadar ünlü olmasını reklama bağlıyorum çünkü çok daha iyi deniz ürünlerini daha uygun fiyatlarla yiyebileceğiniz bir sürü yer var İstanbul'da.,"['negative', 'negative']"
-129,Paranız çoksa deneyin ama şart da değil:,['neutral']
-130,Döner güzel ok ama giderek daha kalabalik hale hatta sisen restoranda omuz omuza kolunuzu kipirdatamadan feci bir gürültü içinde yemek yemek zorunda kaliyorsunuz.,"['negative', 'positive']"
-131,"Sicak bir ortam - Yeri iyi olmasa da, zevkli dösenmis, yemekleri sunum ve tat açisindan tatmin edici, renkli bir mekan.","['negative', 'positive', 'positive', 'positive', 'positive']"
-132,Sira bekleme olayi ise çok kötü...,['negative']
-133,Aci sevmeyenlere uygun bir mekan degil.,['neutral']
-134,"Manzara muhtesem,ortam güzel ama bir karisik köfte tabagi acili köfteyle geliyorsa,fajita da aciysa bana uygun degil.","['positive', 'negative', 'negative', 'positive']"
-135,Sadece meze yiyin.,"['negative', 'positive']"
-136,Her hafta gelmeye çalışıyoruz.,['positive']
-137,"Bütün balıkları değişik soslarla pişirip getiriyorlar, siz dur diyene kadar da mezeler gelmeye devam ediyor.",['positive']
-138,Balığın fast food gibi yenildiği yer.,['neutral']
-139,Yavaş yavaş balık keyfi yapmak isterseniz önermem.,['negative']
-140,Servisi çok hızlı.,['positive']
-141,Mısır ekmeği de sıcacık bayılıyorum.,['positive']
-142,"60 çeşit çay, ruh dinlendirici müzikler, keyifli ortam, hayal kırıklığı yaratan Mizuno Pudding ve farklı da olsa alt tarafı çay içmiştim, bu hesap da ne şimdi dedirten bir hesap :","['positive', 'positive', 'negative', 'positive', 'negative']"
-143,"Hem çok keyif almıştım, hem de yok yok bir çay için bu kadar paraya değmez demiştim ve öve öve bitirilmeyen Mizuno Pudding'i beğenmemiştim.","['positive', 'negative', 'negative']"
-144,Neden şimdiye kadar gelmemişim dedim.,['positive']
-145,Servisten de oldukça memnun kaldık.,['positive']
-146,Biz erken saatte gittik ama akşamları romantik bir yemek için oldukça ideal bir mekan...,['positive']
-147,Hangi gün hangi saat gidilse kalabalıktan kurtulmak mümkün değil.,['negative']
-148,Çoluğu çocuğu toplayan ev hanımları grupları mekana olan ilgiyi azaltıyor.,['negative']
-149,Garsonlar iyi.,['positive']
-150,"Ansiklopedi kalinliginda menuyu getirip siparisinizi vermek istediginizde o yok, bu uok,su kalmadi seklinde ifadelerle birturlu istediginiz tatliyi yiyemediginiz mekan isletmecisine konuyu ilettiginizde yapacak birseyleri olmadigini buyuk rahatlikla dile getiren , garsonlarinin sattiklari urunden haberdar olmayip isteklerinizi yerine gec veya yanlis getirmeleride cabasi.","['negative', 'negative', 'negative']"
-151,Kesinlikle tavsiye etmiyorum.,['negative']
-152,Diğer şubesinin efsaneleşen hikayelerinin ardından defalarca hep belirli sebeplerle geldiğimiz Eleos bence cidden abartılıyor.,['negative']
-153,Yeşilköy şubesini bilemem ama burası standart üzerinde yine de o fiyatlar bence çok saçma.,['negative']
-154,Ayrıca fix menü zorlaması gibi en sinir bozucu uygulamayı burada normalleştirmiş durumdalar.,['negative']
-155,Mezeler de vasatın üzerinde.,['neutral']
-156,Balkon/teras bölümü de cidden çok küçük.,['negative']
-157,Her zaman gittigim ve servisi her zaman igrenc olan bu mekan artiik iyice rezalet sinirlarini zorlamis.,"['negative', 'negative']"
-158,Mekanin isletmecisi beyin tavri tarzi konusmasi uslubu ve terbiyesi yerlerde.,"['negative', 'negative']"
-159,Mekanin populerligi yuzunden rahatlar sanirim ama bu rahatlikla populerligi kisa surede kaybederler.,['negative']
-160,Istanbulda tek manzara goren yer olmamakla beraber yemekleride son derece lezzetsiz.,"['neutral', 'negative']"
-161,Zaten bu saatten sonra sultan sofrasida kursa o isletmeciyle bu mekana bir daha adimimi atmam.,['negative']
-162,"Yemekler super lezzetli, ogle yemeginde cok kalabalik ama saat 2 sonrasinda rahat.","['positive', 'negative']"
-163,"Bir tabaga 5 farkli cesit isteyebilirsiniz, ozellikle bugday salatasi ve havuc salatasi muhtesem mutlaka deneyin","['positive', 'positive']"
-164,Istanbulda baklavanın adresi.,['positive']
-165,"Karaköyden, Eminönünden geçerken uğramalısınız.",['positive']
-166,Sadece baklava değil karışık tabak yaptırın.,['positive']
-167,Çikolatalı baklavayıda özellikle bayanlara tavsiye ederim,['positive']
-168,"yurtdisindan gelen misafirlerimi memnun etmesiyle,manzarasiyla ve tabii ki meze ve yemekleriyle begenimi kazanmis oldu gelinir tadilir calan muzikler guzel ayari sohbetle hos bir fon oluyor.","['positive', 'positive', 'positive']"
-169,Burayi seviyorum gerçekten.,['positive']
-170,Hersey lezzetli statüsüne çok yakin.,['positive']
-171,Keyifli vakit geçirirsiniz emin olun.,['positive']
-172,"Bira dışında başka bir şey içmenizi istemeyen mekan, bira 7,8 lira iken votka 25, şarap 17.5...","['negative', 'negative']"
-173,"Onun dışında, belirli bir saatten sonra müzik sağır edici seviyeye ulaşmakta.",['negative']
-174,Balıklarından daha çok kendine has mezeleriyle ön plana çıkmış Alkolsüz bir Balıkçı .,['positive']
-175,mezeleri gerçekten standartların üzerinde mekan neredeyse her gün akşam saatlerinde yoğun oluyor .,['positive']
-176,bunun haricinde çalışanların ilgiside gayet iyi,['positive']
-177,Tam bir hayal kırıklığı.,['negative']
-178,Combo tabağı hayalleriyle gittik ve şaka gibi içinde iki üç parça olan çok lezzetsiz bir tabak geldi.,['negative']
-179,Hamburgerleri vasat.,['neutral']
-180,Çok çok kötü,['negative']
-181,Sütiştir dedik kahvaltı yapalım dedik pişman olduk valla.,['negative']
-182,Porsiyonları çok küçük fiyatlar çok Pahalı.,"['negative', 'negative']"
-183,Garsonlar ilgisiz çayları kötü.,"['negative', 'negative']"
-184,Arada bir belki tatlı yemeye gidilebilir.,['positive']
-185,O da manzarası için.,['positive']
-186,Egzotik çayları seviyorsanız mutlaka uğramanız gereken bir mekan.,['positive']
-187,Bourbon vanilla ve Irish Malt tavsiye ettiğim çaylar arasında.,"['positive', 'positive']"
-188,"Servis kaliteli, çalışanları ise inanılmaz ilgili.","['positive', 'positive']"
-189,Sevdiğiniz çayların bazılarını paket olarak satın alabiliyorsunuz da.,['positive']
-190,Mekandaki müzik seçimleri de harika.,['positive']
-191,Bazen inanılmaz kalabalık olabiliyor haliyle öyle günlerde serviste aksaklıklar yaşanabiliyor.,['negative']
-192,Mekan güzel ferah.,['positive']
-193,Servis çok hızlı.,['positive']
-194,Çok fazla çeşit var.,['positive']
-195,Bazı çeşitler kebapla çok alakasız olabiliyor.,['negative']
-196,Fiyatları makul.,['positive']
-197,Yemekler lezzetli,['positive']
-198,"Manzara güzel,yemekler güzel ama servis berbat.","['negative', 'positive', 'positive']"
-199,Bir defa demlik çay içmek istedik musluk suyu ile yapmışlar küf kokuyordu.,['negative']
-200,Kısacası berbat.,['negative']
-201,"Mekani çok güzel, çesitler inanilmaz derecede bol ve lezzetli.","['positive', 'positive', 'positive']"
-202,servisi gayet iyi.,['positive']
-203,"Tesis, Fethi Pasa korulugunun içinde yer aliyor.",['neutral']
-204,Etler kalitesi ortalama.,['neutral']
-205,Lezzet ortalama.,['neutral']
-206,Neyle kıyaslanarak çok beğenildiğini merak ediyorum açıkçası.,['negative']
-207,Mekan güzel.,['positive']
-208,Bu et bu parayı asla hak etmiyor.,"['negative', 'negative']"
-209,Kuru fasulye için gidilir.,['positive']
-210,Güzel yapıyorlar.,['positive']
-211,"Pilav, ayran eşliğinde iyi bir menü.",['positive']
-212,"Ama servis konusunda personelinden memnun değilim, bu konuda kendilerini inş.",['negative']
-213,Mart ayinin son gunu bugun berbatti burasi.,['negative']
-214,"Kahvaltiliklar geldi cay yok gelen menemen bozuk domatesten,kokusu tadi yenecek gibi degil, yan masada surekli onu istemistik biz gelmedi diyip durdu bizim gibi.","['negative', 'negative', 'negative']"
-215,Normalde sevdigim bir kahvalticiydi bgn ne yedigimi anladim ne bisi!,['negative']
-216,Nereye gitsek kararsızlığına düşmek üzereyken kurtarıcı olan mekandır Kütük Ev.,['positive']
-217,"İçeriden ve dışarıdan tamamen bir dağ evini andırmasıyla egzotik bir havaya sahip olan mekanda servis nispeten hızlı, fiyatlar pahalı değil, bahçesi güzel.","['positive', 'positive', 'positive', 'positive']"
-218,Kışın daha çok tercih edilebilecek bir yer ama yazın da gidilir gidilmesine.,['positive']
-219,Sunduklari lezzetleri ve gösterdikleri ilgi ile Küçük Ev sayesinde güzel bir aksam geçirdik.,"['positive', 'positive', 'positive']"
-220,Ardindan en çok begendigim ise döner oldu.,['positive']
-221,Gayet lezzetliydi.,['positive']
-222,Bence buraya yolunuz düserse dönerini ve kavurmali pidesini kesinlik denemenizi öneririm.,['positive']
-223,Diger yediklerimizide begendim hepsi güzellerdi.,['positive']
-224,Kendi üretimleri manda yogurtlarinida denemenizde fayda var.,['positive']
-225,Tatlilardan ise en çok kazandibini ve kaymakli ayva tatlisini begendim.,"['positive', 'positive']"
-226,"Fiyatlar ise sunulan hizmet, kalite ve merkezi konumundan dolayi uygun sayilir.","['positive', 'positive', 'positive']"
-227,Öncelikle ortamini çok begendim.,['positive']
-228,"Güzel, sik ve ferah bir ortami var.",['positive']
-229,Özellikle restorantin tam ortasindaki agaç çok hosuma gitti.,['positive']
-230,O agaci korumak için gösterdiginiz çaba kesinlikle isletmenizin sayginligini fazlasiyla arttiracaktir.,['positive']
-231,Hazir ürünlerden çok yöresel ve kendi üretimleri ürünleri kullaniyor oluslari çok hosuma gitti.,['positive']
-232,Trabzon ve Rizeden gelen kavurmalar ile yapilan kasarli ve kavurmali pide beni benden aldi.,['positive']
-233,Harikaydi...,['positive']
-234,"Umdugumu degil buldugumu yedim - Arkadaslarim çok övdü, geldim yedim bitiremedim.",['negative']
-235,Yani güzel degildi.,['negative']
-236,Damak tadima hitap edemedi açikçasi.,['negative']
-237,Biberler kizartilmadan atilmis içine.,['negative']
-238,Bol yumurtali ve birkaç parça domates atilmis içine.,['negative']
-239,Adeta menemen degil biberli omlet olmus gibi.,['negative']
-240,Açik ayrani fena degildi.,['neutral']
-241,Begendim diyebilirim.,['positive']
-242,Manzara disinda deneyimlenecek bir yemegi yok gereksiz pahali ve verdiginiz paraya asla degmeyen menusu var aslinda yok cunku cesit yok.,"['positive', 'negative', 'negative', 'negative']"
-243,hamburgerini deneyelim dedik kendisi 35tl sunum berbat hamburgeri lezzetli degil saoganlar karamelize degil sadece patates kizartmasi guzel onu da mc donaldsta yeyin.,"['positive', 'negative', 'negative']"
-244,dün gidip yeniden kahvalti etme firsati buldugum yer.,['positive']
-245,ben arkadasim ve 2.5 yasindaki oglum rahatlikla doyduk.,['positive']
-246,bir kahvalti tabagi ile gelen çay ücretsizdi.,['positive']
-247,yukaridaki masaya ek olarak 3 bardak çay ve su dahil 42 tl ücret ödedik.,['neutral']
-248,kahvalti tabagi 17.90 tl menemen 10 tl patates 8 tl.,"['neutral', 'neutral', 'neutral']"
-249,Sani Istanbul'un dört bir kösesine yayilmis durumda.,['positive']
-250,Fakat benim çok yakinimda olmasina ragmen çok sik gitmeyi tercih etmiyorum.,['neutral']
-251,Etine eyvallah fakat fiyat konusunda çok uçuklar.,"['negative', 'positive']"
-252,Biraz daha ortamini sik hale dönüstürürlerse daha fazla müsteri çekeceklerine eminim.,['negative']
-253,Bu kadar çok ve lezzetli çay çeşidini bir arada bulmak çok güzel.,"['positive', 'positive']"
-254,"Karaköyün dar sokak aralarında, sokağa koyduğu masalarıyla insanı farklı bir atmosfere sürüklüyor.","['positive', 'positive']"
-255,Servis çok özenli ve güzel.,['positive']
-256,Müşterisi genç bir kitle.,['neutral']
-257,Kül tablalarının dolu ve pis durması bana Starbucks'ı hatırlattı.,['negative']
-258,Manzara'ya tabikide yıldızlı 5 !,['positive']
-259,Dekorasyon da bir o kadar güzel.,['positive']
-260,Eğer sabırlıysanız ve denize biraz daha yakın olayım diyorsanız iyi şanslar ne kadar bekleyeceğiniz bir muamma.,['neutral']
-261,Tek kötü yanı bu olabilir burasının benim açımdan.,['negative']
-262,Fiyatlar gerçekten bir tık üstte ama manzara gözümü her defasında kör ediyor ve görmezden gelebiliyorum.,"['positive', 'negative']"
-263,Aşk-ı Memnu'yu tatmayan kalmasın!,['positive']
-264,Burdaysanız mutlaka deneyin Kuş Yuvası yenmesi biraz zor bir tatlı ama o da güzel bir alternatif.,['positive']
-265,yazın dısarıda yer bulması epey zor.,['neutral']
-266,fakat kızartma combosu bir harika.,['positive']
-267,sürekli kalabalik nedeniyle servis oldukca yavas.,['negative']
-268,bazen bir hesabın gelmesi bile yarım saat sürebiliyor.,['negative']
-269,Sadece ün yapmak işte hepsi bundan ibaret.,['negative']
-270,Parasıyla almıyormuş gibi davran panpa konsept esinmesi bülent ersoyun fevkinde,['negative']
-271,"3 arkadaş yaz başı gittik,döner kısma oturduk 7-8 dakika sipariş almaya gelen olmadı.",['negative']
-272,Bi dakka bekleyin işim var görüyorsunuz tarzı bir fırça.,['negative']
-273,Evet yemekler lezzetli ortam guzel fakat hafta sonu gittigimiz icin midir bilmemm cok kalabalikti.,"['positive', 'positive']"
-274,Calisanlar pek ilgili degildi hesabi tam 17482 garsona soylememize ragmen yarim saat sonra geldi abartisiz.,"['negative', 'negative']"
-275,içecek çeşitliliği konusunda biraz yetersiz ancak fiyat olarak tartışmasız çevresine göre çok çok ucuz.,"['positive', 'negative']"
-276,civarda sıcaktan bunalıp serinlemek istiyorsanız boğazın kenarındaki masalardan birine oturup canlı müzik eşliğinde soğuk birşeyler içebilirsiniz.,['positive']
-277,Türk kahvesi de fena değil.,['positive']
-278,"Manzarasi ve dizayni guzel fakat garsonlar ilgisiz, porsiyonlar cok kucuk ve pahali.","['positive', 'negative', 'negative', 'negative']"
-279,Lezzet eh iste.,['neutral']
-280,Ozetle manzara disinda bisey yok.,"['positive', 'negative']"
-281,Happy hour icin vazgecilmez nokta.,['positive']
-282,Bence burgerleri ve pizzasi Kanyon'da yenebilecek acik ara en iyi.,['positive']
-283,Zincirler icinde tek tercih edilebilir yer.,['positive']
-284,Adi her ne kadar pizzaci olsa da ne yazik ki pizzalar ortalama.,['neutral']
-285,Neden bu kadar popüler oldugunu anlamiyorum.,['negative']
-286,Num Num gerçegi - Yediginiz herseyin hakkini verdikleri bir gerçek.,['positive']
-287,Yemeklerin doyuruculugu ve lezzeti tartisilmaz ancak ögle saatlerinde yer bulmakta oldukça sikintili.,"['positive', 'negative']"
-288,Manzaraya da sufleye de bayildik.,"['positive', 'positive']"
-289,Karsida isiklariyla Rumeli Hisari ve köprü manzarasi esliginde bir aksamüstü Big Chefs'te oturmak çok keyifliydi.,"['positive', 'positive']"
-290,"Sufle 13,5 lira, çay 4,5 lira.","['neutral', 'neutral']"
-291,Burada sulu yemek yok.,['neutral']
-292,Gençler ve ögrenciler için fiyatlari daha uygun tutmuslar.,['positive']
-293,Lahmacun döner burger pide ve köfte çesitleri mevcut.,['positive']
-294,Iftar menüsü 80 TL.,['neutral']
-295,Ezogelin çorba çok tuzluydu.,['negative']
-296,Ve erken servis edildigi için iftara kadar sogudu.,['negative']
-297,Içli köfte ve pirzola güzeldi.,['positive']
-298,Servis elemanlari yetersiz oldugu için yavasti.,['negative']
-299,Her seyden öte böyle bir mekana bu tuvaletler hiç yakismiyor,['negative']
-300,"Bir yer düşünün ki içecekler bardakla geliyor, garsonlar suratsız ve Islak mendil bulunmuyor sebepsiz yere -_- buraya ne olmuş böyle !","['negative', 'negative']"
-301,Hayal kırıklığı,['negative']
-302,"Civardaki restorantlardan pek bir farkı yok, servisi yavaş.",['negative']
-303,Her deniz ürününü karıştırıp önünüze getiriyorlar.,['neutral']
-304,Açıkçası hicbirinin tadını tam alamiyorsunuz.,['negative']
-305,Balik ve deniz ürünlerini çok sevmeyenler Balik KFCsi kıvamında olduğu ve Kızartma bol olduğu için sevebilirler.,['positive']
-306,Sadece soya soslu somon başarılıydı.,"['positive', 'negative']"
-307,"Kisin iç kismi dag evini animsatan, yazin bahçesi yesillikler icersinde ve ferah olan, açik büfe kahvaltisi zengin çesitleriyle bir hayli rabet gören, bunun haricinde genellikle nargile severlerin ugrak mekani olan tatli bir cafe.","['positive', 'positive', 'positive']"
-308,"Utanmadan bozuk içli köfte, acilasmis tereyagi servis edebilen bir mekan...","['negative', 'negative']"
-309,Garsonu bu kadar uyardigimizda ise sadece iletirim dedi.,['negative']
-310,Özür bile dilemediler.,['negative']
-311,Machiato dediğim halde yerine espresso servis eden işletme.,['negative']
-312,"Boş bardak, fincan, tabak masada bekliyor, toplayan yok.",['negative']
-313,"Menüdeki çeşitleri sorunca, o yok, bu yok, onun yerine şunu verelim, bunu verelim.",['negative']
-314,"Kirli, iyi yıkanmamış bardakla çay servisi.",['negative']
-315,Mado'nun genel hastalıklarının bir araya gelmiş hali gibi.,['negative']
-316,Manzara satıyor burada da.,"['negative', 'positive']"
-317,Yoksa Mado'ların kötü bir örneği.,['negative']
-318,Ev yemekleri hergün farkli - Tipki anne eli degmis gibi lezzetli ev yemekleri...,"['positive', 'positive']"
-319,Mekan çok küçük hemen doluyor.,['negative']
-320,Öglenleri yer bulamadigimiz çok oluyor.,['negative']
-321,Genelde ürünler lezzetli ve fiyat da uygun .,"['positive', 'positive']"
-322,Öglen için tercih edilebilir ama 12yi çok geçirmemek gerekiyor...,"['negative', 'positive']"
-323,"Cok guzel sirin bir mekan yemekler kokteyliler super manzara cok iyi, tabiki bu guzel seyler icin sira bekleyebilirsiniz.","['positive', 'positive', 'positive', 'positive']"
-324,Malzemeler güzel ama hamuru çok sevemedim.,"['positive', 'negative']"
-325,Genel olarak mekan şirin.,['positive']
-326,Alkol olsa daha tutulabilirler.,['negative']
-327,Hayatımın en pahalı yemeğini yediğim restoran.,['negative']
-328,Yemekler lezzetli olmasına rağmen FSM köprüsünün başınızın üstünde zebellah gibi durması manzaranın keyfini kaçırmakta.,"['negative', 'positive']"
-329,Yemek porsiyonları çok küçük.,['negative']
-330,Vale hizmeti var.,['neutral']
-331,Rock'n Roll burger yedim.,['neutral']
-332,Burger ekmegi yumusamis dagiliyordu.,['negative']
-333,Icinde ki sos da pek bi istah acici degildi.,['negative']
-334,Ortami guzel gidilecekse onun icin gidelebilir.,['positive']
-335,"Mekan enteresan bir havaya sahip , haftaici aksamlari abiler ellerinde nargilelerle çayla muhabbetin dibine vururken.",['neutral']
-336,Hafta sonu sabahlari ozellikle evli ve cocuklu ciftlerin kahvalti merkezi oluyor.,['neutral']
-337,Yemeklerini ve caylarini begendigim.,"['positive', 'positive']"
-338,Fiyat olarak gayet mantikli bir isletme.,['positive']
-339,Tavsiyemdir,['positive']
-340,Kendilerine özel biraları mevcut olsaydı belki daha güzel olurdu ama standart biralardan içmek durumunda kaldık.,['negative']
-341,Bunun haricinde servis iyi garsonlar güleryüzlü ve rahat bir mekan.,"['positive', 'positive', 'positive']"
-342,Yemekler de farklı tadlar var.,['positive']
-343,Cuma iş çıkışı arkadaşlarla takılmalık bir mekan.,['positive']
-344,Çok fazla lezzetli alternatifi bulunan menüsünü seviyorum.,"['positive', 'positive']"
-345,Citys'in alt katındayken tanıdık sevdik.,['positive']
-346,"Magnolia'sı ayrı, limonatası ayrı güzel.","['positive', 'positive']"
-347,Bir peynirli tostu bile çok özenle sunuyorlar.,['positive']
-348,Somon ızgarasına 4 puan.,['neutral']
-349,Hem sağlıklı hem de doyurucu.,['positive']
-350,Güzel bir öğle yemeği molası.,['positive']
-351,Bahçesi de güzel.,['positive']
-352,Salıncağı bile var.,['positive']
-353,Yemek üzerine de soğuk kahve iyi gidiyor.,['positive']
-354,"Boğazın en güzel yerlerinden birinde, sıcak, sempatik ve zevkli dekorasyonu ve şahane manzarası, genç müşteri kitlesi, güzel müzikleri yetmezmiş gibi güler yüzlü arkadaşca servisi de mükemmel.","['positive', 'positive', 'positive', 'positive', 'positive']"
-355,Kahvaltı seçenekleri çok iyi.,['positive']
-356,Yemekleri de fena değil.,['neutral']
-357,Tüm bu özelikleri göz önüne alınca fiyatlar çok makul geliyor.,['positive']
-358,"Gece, gündüz, her zaman için öneririm.",['positive']
-359,Besiktaki en hakiki pideci diyebilirim.,['positive']
-360,ben bu yuzden tatli yemegi tercih etmedim.,['negative']
-361,fiyatlari 13-17 tl arasi porsiyonlari 1.5 olarak buyutmek de mumkun.,"['neutral', 'neutral']"
-362,puanimdan sirf yavas yuzunden kisiyorum!,"['negative', 'positive']"
-363,otobus duraginin hemen karsisinda yeri cok kolay.,['positive']
-364,porsiyonu tam malzemesi bol hamuru citir citir fakat servis icin ayni hosnutluktan bahsedemicem.,"['positive', 'positive', 'positive', 'negative']"
-365,servis oldukca yavas.,['negative']
-366,yavas demek bile az kalir.,['negative']
-367,az vaktiniz varsa kesinlikle ogle saatlerinde ugramayiniz.,['negative']
-368,besiktas da yiyebilceniz en iyi pide ama odun atesinde pisenin yerini tutmuyor tabiki.,"['negative', 'positive']"
-369,tatli secenekleri de mevcur sufle ve kunefe var menu de var da pide o kadar gec gelince insani tatli siparisi dusunduruyor.,"['negative', 'positive']"
-370,Eski kalitesinde olmasada hala iyi diyelim talep çok olunca ister istemez kalite ve servis vasata düşüyor etleri kenfi çiftliklerinden otopark sorun fiatlar normal,"['neutral', 'negative', 'neutral', 'neutral']"
-371,"Manzarasi icin gidilesi cafe , cok fazla yazacak bisey yok.",['positive']
-372,fiyatlar standart seviyede.,['neutral']
-373,otopark sorunu yok.,['positive']
-374,sessiz sakin ve huzurlu bir mekan.,['positive']
-375,Kuru fasulyesi lezzetli.,['positive']
-376,Sutlaci tavsiye edilir.,['positive']
-377,Köftesi de kaliteli.,['positive']
-378,Sade güzel bir yer.,['positive']
-379,Çalışanlar ilgili kibar.,['positive']
-380,Ortaköye yolu düşen ugramali.,['positive']
-381,Park sorunu ciddi.,['negative']
-382,Valesi var gerçi.,['neutral']
-383,Pazar sabahları brunch dışında seçeneğiniz yok.,['negative']
-384,Brunch çeşitleri ehh.,['neutral']
-385,Masaya istenen sucuklu yumurtanın sucuğuna extra ücret istenmesi ayıp.,['negative']
-386,Mekanın lokasyonu on numara ama rezervasyonsuz deniz kenarı masa bulmanız imkansız.,['positive']
-387,"Böyle bir brunch için 59TL, 4 ince dilim sucuk için 5TL extra ücret mânâsız.","['negative', 'negative']"
-388,En son kabalık bir grup halinde gittiğimizde siparişlerde karışıklık olmuştu malesef.,['negative']
-389,"Tek kelimeyle muhtesem bir lezzet, doner kesimi tam olarak usta isi.","['positive', 'positive']"
-390,Yagsiz ve cok lezzetli.,['positive']
-391,Yaninda getirdikleri tandir lavasi ise bugune kadar yedigim en lezzetli lavas.,['positive']
-392,Oturdugunuz gibi siparisiniz aliniyor ve hemen servis yapilmaya baslaniyor.,['positive']
-393,Ortaya ise salata ve patates kizartmasi getiriyolar.,['neutral']
-394,Acik ara en iyi donerci.,['positive']
-395,Big chefs her daim şişirilmiş bir kafedir.,['negative']
-396,Çünkü size oluru olmayan fiyatlar sunar.,['negative']
-397,İsim yapmıştır çünkü pahalı olduğu için kaliteli algısı yaratır .,['negative']
-398,"Bir ayvalık tostuna 20 tl , bir kavanoz tatlıya 20 tl vs. Yazan bu mekana kesinlikle gitmem .","['negative', 'negative', 'negative']"
-399,Çünkü bu israftan başka bir şey değil benim nazarımda .,['negative']
-400,Böyle mekanları biraz boş bırakmak lazım ki Fiyat skalasını biraz düşük aralığa taşısınlar !,['negative']
-401,"Tatlilar - Tatlilari çok güzel, tiramisu özellikle yenilmeli ama ana ögün kadar büyük geliyor dikkat!","['positive', 'positive']"
-402,"Unsuz çikolatali pastasi biraz agir, diyet yapanlar bulasmasin!",['negative']
-403,Yemeklerin tadi tuzu yok.,['negative']
-404,Ortam gürültüden ibaret.,['negative']
-405,Garsonlar TV izlemekten size bakmiyor.,['negative']
-406,Geçin allahaskina baska bir sürü yer var yenebilecek,['negative']
-407,Güzel - Konum olarak çok keyifli bir yer degil ancak çalisirken ögle yemekleri için bazen gidiyoruz.,"['negative', 'positive']"
-408,"Yemeklerin lezzetine inanamayacaksiniz, pastirma ile yapilan Topkapi kebabi çok iyidir.","['positive', 'positive']"
-409,Koftenin hicbir ozelligi yok.,['negative']
-410,Hizmet yok guleryuz yok.,"['negative', 'negative']"
-411,Manzaranin ekmegini yiyorlar.,"['negative', 'positive']"
-412,Masalar dipdibe marketten dondurulmus kofte alin evinizde yiyebilirsiniz.,['negative']
-413,Siradan - Siradan kebaplari olan mekan...,['negative']
-414,Kebap için kesinlikle gidilmeli denemez ama tatlilari inanilmaz güzel.,"['positive', 'neutral']"
-415,Hizmetten cok memnun kaldik.,['positive']
-416,Herkes cok ilgili ve guler yuzluydu.,['positive']
-417,D Somon izgara ve etli quesadilla sipariz ettik.,"['neutral', 'neutral']"
-418,"Somon izgaranin altinda olan kuskonmazli ispanakli sote mukemmeldi, yemek ise genel olarak guzeldi.","['positive', 'positive']"
-419,Etli quesadillanin ise ozellikle eti cok guzeldi.,['positive']
-420,Mutlaka bir daha gelicez :,['positive']
-421,Sevdiğim bir mekan.,['positive']
-422,"Müzikler, bahçesi, menüsü güzel.","['positive', 'positive', 'positive']"
-423,Ferah bir ortamı var ve kalabalık buluşmalar için de uygun bir yer.,"['positive', 'positive']"
-424,Çalışanları da güler yüzlü.,['positive']
-425,Girerken böyle bir yerle karşılaşacağınızı tahmin etmiyorsunuz konumu nedeniyle.,['negative']
-426,Sütiş'in Emirgan şubesi gibi bu şubesinin manzarası da çok güzel deniz hemen yanınızda köprü hemen sağ çaprazda :,['positive']
-427,) yemekler güzel fiyatlar da mekana göre gayet uygun.,"['positive', 'positive']"
-428,Tavukgöğsü başarılı :,['positive']
-429,Berbat biyer rezervasyon yaptirdigim halde misafirlerime rezil oldum rezalet biyer calisanlarin tavirlari olsun ilgileri herseyi rezalet otesi,"['negative', 'negative']"
-430,Çömlekte ev yapimi yogurtlarini mutlaka deneyin.,['positive']
-431,Eski zamanlar biraktigimiz gerçek yogurdun tadini yakalayacaksiniz.,['positive']
-432,Fiyati da saka gibi.,['neutral']
-433,Mükellef bir yemek sonrasi ortalama 15-25 TL'ye mekandan çikabilirsiniz.,['positive']
-434,"Dekorasyon zevkli olmus, özellikle mekanin ortasina konuslanmis bonsai agaç beni benden aldi.","['positive', 'positive']"
-435,Çok iyi karsilandik ve sonuna kadar el üstünde tutulduk.,['positive']
-436,Harikasiniz arkadaslar.,['positive']
-437,) Her seyden ufak ufak tattik.,['neutral']
-438,Yemeklerde favorilerim döner ve kavurmali pide oldu.,['positive']
-439,Kavurmali pide için tekrar ugrayacagim.,['positive']
-440,Tatlilarda tavuk gögsü gerçekten lezizdi.,['positive']
-441,"Irmik helvasinin da tavuk gögsünden eksigi yoktu, sekeri kivamindaydi ve hafifti.","['positive', 'positive']"
-442,"Buraya sık geliyorum, leventte çalışanların da çok tercih ettiği bir yer.",['positive']
-443,Yemekleri eskiden daha güzeldi özellikle mantısı çok başarılıydı.,"['neutral', 'neutral']"
-444,"Ancak her gün çeşit çeşit ev yemeğinin çıkıyor olması çok cazip, ister zeytinyağlılar ister sıcak yemekler insanı her gün fast food yemekten alıkoyuyor.",['positive']
-445,"Zeytinyağlı tabağı başarılı, salatalarının da porsiyonu çok büyük tavsiye ederim.","['positive', 'positive']"
-446,ve oradakı koku olayına bır hal care bulamadıkları ıcın yazık olan mekandır.,['negative']
-447,Taksim'de kendi tarzına göre keyifle gidilecek mekanlardan biri.,['positive']
-448,) Hamburgeri hoşuma gidiyor ve NY steak de tavsiye edebilirim.,"['positive', 'positive']"
-449,İçecek olarak genelde bira sevdiğim için kokteylleri için bir şey söyleyemeyeceğim.,['neutral']
-450,Afiyetle!,['positive']
-451,Ben artık happy moons u beğenmiyorum.,['negative']
-452,Servisi iyiydi çalışanları güleryüzlü fakat yemeklerinden eskiden aldığım tadı almıyorum.,"['positive', 'positive', 'negative']"
-453,"Ben bi tek çilekli limonatasını beğendim, çok tavsiye etmem","['negative', 'positive']"
-454,Öyle bir manzara ve konum için olabilecek son mekan filizler olmalıydı.,"['negative', 'positive']"
-455,Zaman kaybı!,['negative']
-456,Yemekleri fena degil.,['neutral']
-457,Ozellikle zeytinyaglilari guzel.,['positive']
-458,Galata cevresinde zeytinyagli veya ev yemegivari yiyebilecegimiz nadir yerlerden oldugu icin tercih ediyorduk.,['positive']
-459,Ama dunyanin en yavas evlere servis hizmetini sunuyorlar.,['negative']
-460,Hele de ogle saatinde 50 ile 70 dakika beklemeye hazir olun.,['negative']
-461,Ogle saatleri degilse de 25-30 dk beklemeyi goze almak gerekiyor.,['negative']
-462,En son soyledigimiz firinda makarnasi da kuru geldikten sonra bir daha siparis vermemeye karar verdik.,['negative']
-463,"Manzarasi çok güzel , dekorasyonda çok başarılıydı , kahvaltı için gittik kahvaltı güzeldi ama omleti beğenmedim çok tatsızdı.","['negative', 'positive', 'positive', 'positive']"
-464,Geri kalan hersey tazeydi kayısı ve cevizle süslemeleri çok hoşuma gitti kahvaltıya fresh bir hava katmışlar.,"['positive', 'positive']"
-465,Kahvaltısı için gidebilir ama garsonlar servis ederken gördüğüm kadarıyla yemek porsiyonları küçüktü ve sunum hoşuma gitmedi .,"['negative', 'negative', 'positive']"
-466,Kısacası manzarası için gidilebilinir bir yer sadece .,"['negative', 'positive']"
-467,"İlk Evlilik yıldönümü yemeğimizi burada yemiştik, karşılama gayet güzel kibar çalışanlar.","['positive', 'positive']"
-468,Sunumu beğendik.,['positive']
-469,Sakin mutlu bir yemekti.,['positive']
-470,Tekrar gitmeyi düşünürüm.,['positive']
-471,"Klasik rakı-balık-fasıl üçlemesinden sıkılan, ve mezelere odaklanmak isteyenler için en iyi alternatif.",['positive']
-472,Manzara olarak en iyi seçeneği sunmasa da lakerdası başta olmak üzere bütün mezeleri denemeye değer.,"['neutral', 'positive', 'positive']"
-473,"Fıstıklı peynirli meze, buraya özel bir lezzet.",['positive']
-474,Kişi başı 60 liraya rakınız ve mezelerinizle güzel bir akşam geçirmeniz garanti.,"['positive', 'positive']"
-475,"Konum itibariyle cok guzel yerde, manzarasi enfes.","['positive', 'positive']"
-476,"Limonatasi kocaman ve lezzetliydi, ""ayvalik tostu""nu yeniden yorumlayarak tamamen farkli bir hale getirmisler, fena degildi.","['positive', 'positive', 'neutral']"
-477,"Ancak mekanin en buyuk sıkıntısı hizmet kalitesi, cok cok yavaslar!",['negative']
-478,"Ki bana gore bir mekanda olmasi gereken en onemli ozellik ""hizmet kalitesi"" En buyuk kurtaricisi lokasyon ve muhtesem bogaz manzarasi!","['positive', 'negative', 'positive']"
-479,Sinirsz kahvalti keyfi için harika bir yer.,['positive']
-480,Manzarasi cok güzel.,['positive']
-481,Garsonlar biraz daha güler yüxlü olabilir.,['negative']
-482,40 tl kisi basi.,['neutral']
-483,Zengin bir acik büfe menüsü var.,['positive']
-484,Keyifli bir yer.,['positive']
-485,Son zamanların benim için en büyük hayal kırıklığı.,['negative']
-486,Bu kadar büyük merakla gelip de yediklerimden bu kadar az haz ettiğim başka bir yer olmadı.,['negative']
-487,"Garson arkadaşlar, mekanın manzarası, hizmet şahane ama lezzet adına söyleyebileceğim çok şey yok.","['positive', 'negative', 'positive', 'positive']"
-488,Köprü altı yerleri gibi kalamar koydular önümüze.,['negative']
-489,Yeşilköy efsanesi burada sürmemiş,['negative']
-490,"Yıllar önce keyifli mekan sayısı azken sıklıkla tercih ettiğimiz, mekan sayısı arttıkça da geri plana ittiğimiz mekanlardan.",['neutral']
-491,Bahçesi insana huzur veriyordu...,['positive']
-492,"Manzara guzel servis rezalet , 3 kere soylemeden getirmiyorlar , iki kere degil 5 kere dusunun gelirken","['positive', 'negative']"
-493,Bir yanı benzinlik bir yanı mezarlık manzaralı ama çokta tutan bir cafe.,"['negative', 'positive']"
-494,E5 üstünde olduğu için çabuk direksiyon kırılıp az vakitte çok oturmalık kolaylığı için tercih ettik.,['positive']
-495,Bahçesi keyifli yemekte çok kötü değildi.,"['positive', 'neutral']"
-496,Arkasından içtiğimiz kahve için çok beklesekte fazla beklentisiz bir cafe olduğundan notu 3.5 olarak verdim,"['negative', 'neutral']"
-497,"besiktas barbarosta bulunan sampi sabaha kadar acik,gece cani cekenler icin ideal ve paket servisi de var,kapali kasarlisi da cok lezzetli oluyor",['positive']
-498,Pizzalarini fena bulmadim.,['neutral']
-499,Acikcasi cok ayilip bayilani var ama ben daha kalin hamurlu pizzalari seviyorum.,['negative']
-500,Ama Pizzeria Trio' nun pizzalari da guzel.,['positive']
-501,Eti kotuydu net ama geri kalan urunleri fena sayilmazdi.,"['neutral', 'negative']"
-502,İnanilmaz bir manzaraya sahip bu arada mekan.,['positive']
-503,"Pizza, sarap, manzara kombini icin gidilebilir.","['positive', 'positive', 'positive']"
-504,Özellikle bahçesini tercih edin giderseniz.,['positive']
-505,açık alan gayet rahat.,['positive']
-506,"içecekler güzel, ama fastfood tarzı atıştırmalık tercih edecekseniz pek tavsiye etmem.","['positive', 'negative']"
-507,Yemekler fena değil fakat porsiyonlar çok ufak.,"['neutral', 'negative']"
-508,Fiyat biraz fazla gibi.,['negative']
-509,Burasi eskiden favori yerlerimdendi menüsü degisti ve artik eski menudeki yemeklerin bile tadi ayni degil lezzet olarak cok kötü.,['negative']
-510,Lezzet disinda degerlendirirsek hem dis alani bahcesiyle hemde ic alani rahat buyuk koltuklariyla cok keyifli bir mekan,"['positive', 'positive', 'positive']"
-511,Tadı bir başka aşşkın kuruçeşmenin en iyi mekanı diyebiliriz arkadaşlarla kahve içip sohbet etmek burda bir başka,['positive']
-512,Kadıköy'ün bira cennetlerinden biri.,['positive']
-513,Eski çalışanları daha iyi ve samimiydi diye düşünüyorum.,['negative']
-514,"Mevcut çalışanlarının marjinal görünümlerini yadırgamamakla birlikte , bu marjinal görüntü hafiften cool davranışlara kaçıyor, bu da hizmete olumsuz yansıyor.",['negative']
-515,Daha gülümseyen bir çalışan profili olmalı.,['negative']
-516,"Hizmeti ortalama, yemekler ortalama.","['neutral', 'neutral']"
-517,Yine de bol çeşit bira denemek ve müzik dinlemek için gidilmeli.,"['positive', 'positive']"
-518,Yemekler çok vasat.,['negative']
-519,her zaman çok yoğun.,['negative']
-520,içerde müzikten birbirini duyamıyorsun.,['negative']
-521,servis elemanları kaba.,['negative']
-522,sadece fiyatlar makul.,['positive']
-523,menü kısıtlı,['negative']
-524,"Cizbiz koftesi , sutis moccachinosu , dtox corbasi ve haftasonu hahvalti zenginligiyle tavsiye edebilecegim bir Mekan manzarasi , ulasim rahatligi konforuyle denemenizi tavsiye Ederim","['positive', 'positive', 'positive', 'positive', 'positive', 'positive']"
-525,Sosyal medyada ünlü olduktan sonra kaliteyi düşürmüş mekanlardan bir tanesi.,['negative']
-526,"Arkadaşım aşkı memnu söyledi,ben de cheescake söyledim.","['neutral', 'neutral']"
-527,İkisi de durmuş ve kötü kalite malzeme kullanılmıştı.,['negative']
-528,En azından adlarıyla özdeşleşmiş tatlılarına özen göstermelerini beklerdim.,['negative']
-529,Bu manzarada ne versek yerler mantığında bir işletmenin Kuruçeşme'de olmasına çok üzüldüm.,['negative']
-530,"Önermiyorum, eminim aynı güzellikte manzaraya sahip ama yemekleri müşteriye saygı gereği taze ve iyi malzemeyle yapılmış bir yer bulabilirsiniz civarda.","['positive', 'negative']"
-531,anzarasi harika...,['positive']
-532,- Burasi haftada bir ugramaya çalistigim ve manzarasina bayildigim bir mekan.,['positive']
-533,Ancak bir seyler yemek için çok iyi denemez.,['negative']
-534,Pastalari 3. sinif pastane mamulleri gibi...,['negative']
-535,Ayrica genelde çok kalabalik olmasi nedeniyle yer kapmak için bayagi bir ugrasmak gerekiyor.,['negative']
-536,Servis vasat.,['negative']
-537,"Çatal, bıçak pis ve cevizli baklavası şerbetinden insanın midesini bulandiriyor.","['negative', 'negative']"
-538,Ayrıca baklava yanmış gibi.,['negative']
-539,Fıstıklı tatlılar idare eder.,['neutral']
-540,Karakoyde yer alan sirin bir cafe.,['positive']
-541,Sık sık gelip butun caylardan denemek lazim.,['positive']
-542,Fiyatlar yuksek ama verdiginiz paraya degiyo,"['positive', 'negative']"
-543,Dekorasyonu cok hos.,['positive']
-544,Cok rahat koltuklari var.,['positive']
-545,Oturup saatlerce kaliteli cay esliginde muhabbet edebilirsiniz.,"['positive', 'positive']"
-546,Buzlu cay hayatimda ictigim en iyi buzlu caydi.,['positive']
-547,Seker orani yerindeydi ve cok ferahlatiyordu.,['positive']
-548,Cin cayi nin tadi da cok guzeldi.,['positive']
-549,Kavun aromasinin kivami yerindeydi ama ic ic bitmedi bir turlu.,['positive']
-550,Fiyat/Performans olarak gidilebilecek mekanlardan birisi Uzunlar Kebap.,"['positive', 'positive']"
-551,Piyasada bulunan kebapçılara göre 1 tık daha iyidir.,['positive']
-552,"Haftasonu gezmeleri için de gidilebilir, aç kaldığınızda yemeğimi yiyip hemen kalkayım mantığında da gidebilirsiniz.",['positive']
-553,"Berbat bir yer,insanlarin sefil oldugu,göcmen burosuna sıra bekleyen biri gibi hissettim,rezalet...","['negative', 'negative']"
-554,asla gitmeyin.,['negative']
-555,paranızla rezil olmak isterseniz buyrun derim.,['negative']
-556,Menusundeki hemen hemen hersey oldukca lezzetli.,['positive']
-557,Ozellikle acik bufe sabah kahvaltisi evinizde yapiyormus gibi keyifli.,['positive']
-558,"Standart bir kahvalti fakat ortam,servis,mekanin konumu çitayi yükseltiyor.","['positive', 'positive', 'neutral', 'positive']"
-559,"Özellikle servis elemani Sezgin bey 'in isini bu kadar iyi yapmasi ve herkesle esit ayni güler yüzle ilgilenmesi , masalar arasi slalom yaparken hiç bir istegi ikiletmemesi hepimizin sempatisini ve takdirini kazandi.","['positive', 'positive']"
-560,Göksu'da gidilebilecek en hos cafelerden biri bence.,['positive']
-561,Geniş bahçesi ve terası ile bu lokasyona yakın arkadaşların yaz akşamlaında açık haavada nargile keyfi yapabilecekleri bir mekan.,"['positive', 'positive']"
-562,Ulasim oldukca kolay.,['positive']
-563,Otoparki vale sistemiyle calisiyor.,['neutral']
-564,Cevre duzenlemesi okadar guzel yapilmiski daha yemekleri tatmadan iyi geldim diyorsunuz.,['positive']
-565,"Etler , meze, salata ve patates kizartmasi da size kesinlikle aksini dusundurmuyor.","['positive', 'positive']"
-566,Hepsi ayri lezzetli.,['positive']
-567,Acildigindan beri ara sira gidiyordum.,['neutral']
-568,icin) artik gitmiyorum.,['negative']
-569,Yasaklatanlara hayirli olsun!,['negative']
-570,Vasat - Istanbul'daki kebapçilarla kiyaslayacak olursak gerçekten vasat.,['neutral']
-571,Ama benim derdim kebap degil yeni bir yer görmek diyorsaniz kesinlikle tavsiye edilir.,"['positive', 'neutral']"
-572,Ancak çok büyük beklentiyle gidilmemeli ki sonra çok üzülmemeli:,['neutral']
-573,Ozel gun yemeklerinizi yiyebileceginiz luks bir restorant.,['positive']
-574,Kulbasti ve ozellikle ev yapimi sufleyi tavsiye ediyorum.,"['positive', 'positive']"
-575,Rezervasyon sirasinda ozel gununuzu soylediginiz takdirde sampanya ikramlari oluyor bu guzel bir jest,"['positive', 'positive']"
-576,Yemek servisi ve lezzeti iyi bir restaurant.,"['positive', 'positive']"
-577,Servis Süreleri biraz uzun birde bulunduğu mekana ve mekanın fiziksel kalitesine göre fiyatlar pahalı.,"['negative', 'negative']"
-578,Daha mütevazı menu fiyatları olsa daha sık ziyaret edilebilir,['negative']
-579,Çikolatalı baklavasına bayılıyorum kesinlikle en favori tatlım.,['positive']
-580,Diğer bütün tatlılarının kalitesi ve lezzeti üst seviyede.,['positive']
-581,Güllüoğlu bu konuda uzman.,['positive']
-582,Nusret etin prensi diyorsak bildiğimiz var ki diyoruz.,['positive']
-583,😎 Etleri muhteşem lezzetliydi.,['positive']
-584,Evde de aynısını bir aşçı adayı olarak yapsam bile Nusret'inki farklı.,['positive']
-585,Kaliteli yemek sevenler mutlaka gitsin denesin.,['positive']
-586,Jumbo combo ve kola istedim ama börek ve tavuk parçaları dışındaki tatlar bana göre değildi.,"['positive', 'neutral']"
-587,Sosları sevmedim ve soğan halkalarının tadı tatlı geldi.,"['negative', 'positive']"
-588,Nachos istemediğime pişman oldum.,['positive']
-589,Cumartesi olmasına rağmen sakindi.,['positive']
-590,Telefonun şebekesi çekmediği için wifi ye bağlanmak istedim ama oturduğum müddetçe başarılı olmadım.,['negative']
-591,Servis hızlı ve çalışanları pozitifti.,"['positive', 'positive']"
-592,Güzel bir cafe ama maalesef hard rock değil.,"['negative', 'positive']"
-593,"açıkçası çokta tavsiye edilecek bir yer değil bence , press ile yanyana olunca bir orayada bakayim dedim fakat oturmamla kalkmam bir oldu .",['negative']
-594,Sadece Türk kahvesi var ve bir sürü çay çeşidi tadlari belki güzeldir ama hem pahali hem gereksiz bir yer bence,"['negative', 'negative']"
-595,Birde burdaki yerini deniyeyim dedim geçenlerde ama tam bir hayal kirikligi garsonlar asiri ilgisiz kebaplar diger subelerine göre basarisiz cok sarimsakli ve rahatsiz edici manzara gibi bir olayi yok bridge 'in tam tersi tarafinda kaldigi icin evlere bakiyor bos bos gitmeye degecek bir yer degil lezzette kötü zaten ilk ve son gidisim olacak fakat servis için göztepe subesi gerçekten güzel salatalari bile paket sekilde gonderiyor .,"['negative', 'negative', 'negative', 'negative', 'negative', 'positive']"
-596,"Dostlarinizla birlikte gürültüden uzak, bir seyler içme düsüncesindeyseniz birbirinizin sesini rahatlikla duyabileceginiz mükemmel bir yer Limonlu Bahçe.",['positive']
-597,Bahçesindeki kedilerinin birbirini kovalamasi ise mutluluktan midenizde kelebekler uçurtuyor!,['positive']
-598,Tek sorun siparisin çok geç gelmesi ve yemeklerin performans-fiyat birlikteliginin tutarli olmamasi,"['negative', 'negative']"
-599,"Popülerliğin etkisiyle kaliteyi düşüren, malzemeyi azaltan bir yer oldu.","['negative', 'negative']"
-600,Baklavada fıstığı ara ki bulasın.,['negative']
-601,"Paket alınan baklavaların bayat olma ihtimali yüksek, dikkatli olun.",['negative']
-602,Su böreği de kötü.,['negative']
-603,Zaten o kalabalıkta oturmaya o gürültüyü çekmeye bile değmez.,['negative']
-604,Normal mekan normal tatlar.,"['neutral', 'neutral']"
-605,Övgü üzerine gitmiştik ama fazla beklentiye girince bazen normal bulacağınız şeyi de bepenmeyebiliyorsunuz.,['negative']
-606,Bence istanbulda iyi denilen mekanlarda bile meze probleni var.,['negative']
-607,Sıradan lezzetler.,['neutral']
-608,Burda da aynı durum geçerli işte,['neutral']
-609,Her zaman keyifli - Her zaman keyifle gittigim mekanlardan biri olmustur.,['positive']
-610,Bahçesi çok güzel.,['positive']
-611,Misafirlerini çok güzel host ediyorlar.,['positive']
-612,Canyon Road ve Big Burger her zaman favorimdir.,"['positive', 'positive']"
-613,cok yuksek sesle gulup egleniyorlar.,['negative']
-614,Ugramadan geçmeyin - Konum olarak güzel bir yere kurulan ve disaridan geçerken görsel olarak içeri çagiran ayrica içeri girildiginde de pisman etmeyen bir mekan.,"['positive', 'positive']"
-615,"Burasi oldukça lezzetli yemekler yapiyor ve sunum, hijyen, herkes çok sicak kesinlikle gidilmeli.","['positive', 'positive']"
-616,"Güzel manzara, yetersiz menü - Otagtepe'nin manzarasi çok güzel ancak ne yazik ki bu manzaraya uyacak bir menü zenginligi, yemek kalitesi yok.","['positive', 'positive', 'negative', 'negative']"
-617,Hizmet kalitesi de iyi degil.,['negative']
-618,Deniz mahsullü pizzası güzel değil.,['negative']
-619,"Riske girmeden hamburger, wrap, sandviç tarzı bir şey söylemek en mantıklısı.",['neutral']
-620,Ayrıca rezervasyon alıyorlar ki Numnum'sınız siz havanız kime diyesi geliyor insanın.,['negative']
-621,Fırında makarnasını denedim ama çok beğendiğimi söyleyemeyeceğim.,['negative']
-622,"3 aydir haftasonlari ugrak noktamizdi, Kahvehane gibi maç ücreti 10 tl diye yazdilar yaa o gun bizim gozumuzde bitti.",['negative']
-623,Gidicekler simdiden dikkatli olsun.,['negative']
-624,"Mudavimi oldugum diger mekanim, ascisi super yemekler cikariyor isletmecisini cok seviyoruz , balli tavuk salata , yesil mercimek corbasi, kestanesi suflesi ve birbirinden saglikli fresh meyve sulari deneyin derim ,bogazin gobeginde yemeginizi yemenin keyfine varin","['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']"
-625,Fethipaşa korusunun içinde bulunan manzarasına göre uygun fiyata sahip salaş şık aileye uygun bir mekan.,"['positive', 'neutral', 'positive']"
-626,özellikle yaz akşamları terasında semaver çayını denemelisiniz,['positive']
-627,yaz ayları için bahçesi beşiktaş'taki en ferah yer olabilir.,['positive']
-628,"yemekleri lezzetli, servis hızlı ve çalışanlar güler yüzlü.","['positive', 'positive', 'positive']"
-629,iç dekorasyonu da gayet hoş.,['positive']
-630,müzikler de ortam ile uyumlu.,['positive']
-631,Malesef ki sadece pazar günü brunch veren bir yer.,['negative']
-632,Kahvaltısını denemediyseniz denemelisiniz çok fazla çeşit var hatta hangisini yesek diye şaşırıyorsunuz.,['positive']
-633,Saatlerce pazar keyfi yapabilceğimiz bir yer.,['positive']
-634,Manzarasına zaten diyecek tek bir kelime yok.,['positive']
-635,Böyle bir yerin tabi ki fiyatları Pahalı.,['negative']
-636,"Garsonlar ilgili, yemekler güzel","['positive', 'positive']"
-637,Tuzlanın meşhur balıkçısı.,['positive']
-638,Eskiye nazaran kalitesi oldukça düşük.,['negative']
-639,Eskiden mekan daha ufak sınırlı sayıda müşteriye hizmet eden ama kalitesini bozmayan bir yerdi.,['negative']
-640,Maalesef son 1 senede kalitesinde ve serviste epey sıkıntılı.,"['negative', 'negative']"
-641,Tatlilari da denenmeli bence.,['positive']
-642,Manzarasi da ayrica güzeldir.,['positive']
-643,Plaza insanı için öğle yemeklerinde bir alternatif kanımca.,['positive']
-644,Ev yemeklerini hakettiğinden pahalıya sattıklarını düşünüyorum.,['negative']
-645,Göksunun kenarında çok şirin bir yer.,['positive']
-646,Yemekleri de gayet lezzetliydi.,['positive']
-647,Görselliğe pek önem vermedikleri aşikar yine de.,['negative']
-648,Ama hizmet konusunda on puan veriyorum,['positive']
-649,Uzun zamandan sonra yediğim en güzel kofte idi.,['positive']
-650,hamburgerde çok güzeldi.,['positive']
-651,roka salatası Güveçte mantarda başarılı idi.,"['positive', 'positive']"
-652,biz kahvaltısında denemek üzere tekrar geliriz,['positive']
-653,İstanbul'da daha fazla olması istenen mekanlardan.,['positive']
-654,Dizaynı güzel.,['positive']
-655,Kalabalık olduğunda bile çevrenizdeki masalarla iç içe hissettirmeyecek kadar ferah.,['positive']
-656,Özellikle Boğaziçi Üniversitesi öğrencilerinin sıkça uğraması gereken bir mekan.,['positive']
-657,Yemek menüsü geliştirilebilir.,['negative']
-658,Fiyatlar gayet uygun.,['positive']
-659,Quattro Stagioni ve Orto'yu denedik ancak beklentilerimizin altında kaldı.,['negative']
-660,Pizzalarından ziyade tiramusu çok daha başarılı.,"['negative', 'positive']"
-661,Bir de dükkanın minyatür haldeki maketi çok tatlı.,['positive']
-662,Cok fazla kisiye servis yapildigi icin cok basarili bulmuyorum mezeler dunden kalma gibi etler cok guzel degil yanliz adana kebabi fena degil ama daha iyileri oldugu icin baska yerde denemede fayda var,"['negative', 'neutral', 'negative', 'negative']"
-663,Orta...,['neutral']
-664,- Ambiansi hos.,['positive']
-665,"Yemekleri basarili bulmuyorum, burgerler lezzetsiz, fajita için kullandiklari et uygun degil.","['negative', 'negative', 'negative']"
-666,Genelde çok kalabalik oldugu için de servis kosturmaca içinde yapiliyor.,['negative']
-667,Kadıköy'de yemek yenecek en iyi yerlerden birisi Happy Moon's.,['positive']
-668,Günün her saatinde gelinebilir.,['positive']
-669,Servis hızlı sayılır mekan dekorasyonu gerçekten güzel.,"['positive', 'positive']"
-670,Manzara muhtesem ama servis icin ayni seyi soyleyemeyecegim.,"['negative', 'positive']"
-671,Peynirli omlet ve menemen lezzetliydi ama patates kizartmasi fazla yag cekmisti.,"['positive', 'negative']"
-672,Gelen kahveler de maalesef sogumustu.,['negative']
-673,Abartildigini düsünüyorum.,['negative']
-674,Getirilen patates kizartmasi için kullanilan yag kaçinci kere kullanilmissa üzerinde siyahlasmis yag kalintilari vardi ve patatesler birakin çitir olmayi hamur gibiydi.,"['negative', 'negative']"
-675,Domates/salatalik sögüs beklemekten pörsümüstü.,['negative']
-676,Etrafta kaotik bir hareketlilik yasanmasi yediginizden keyif almanizi zorlastiriyor.,['negative']
-677,Üzerine ortalama bir döner olunca ben tekrar gidecegimi sanmam.,"['neutral', 'negative']"
-678,Bayıldığım bir yer mekan çok hoş her mezeyi tatmak gerekli evet keşke fiyatlar daha insani boyutta olsa muhteşem olurdu ama ne yapayım o kadar keyif alıyorum ki verdiğimiz para can acıtmıyor sadece daha seyrek gitmemize sebep oluyor ortam yemekler ve müzik herşey harika,"['positive', 'positive', 'positive', 'positive', 'negative', 'positive']"
-679,nadir güllüoglunun yeri güzel bakimli ve taze lezzet sunuyor sadece bana çok sekerli geliyor damak tadimdan kaynaklanabilir hepsini genelde denedim fistikli baklava güzel,"['neutral', 'positive', 'positive', 'positive']"
-680,Mekanın içine cidden emek harcandığı her halinden belli.,['positive']
-681,"Ne kadar yoğun olursa olsun, servis hızlı yenilen her şey çok lezzetli.","['positive', 'positive']"
-682,Pastırmalı yumurta konusunda hala gönlümün tek sultanıdır Sütiş.,['positive']
-683,Hasan Kolcuoğlu çok pahalı diyemem ama hesap yüksek sayılır; ayrıca sözde açık ama aslında kapalı alanında sigara içiliyor.,"['negative', 'negative']"
-684,"Mezeler çok çeşitli ve lezzetli, metrelik kebabı da güzel, o da gayet lezzetli fakat mecburen fix menü alınıyor.","['negative', 'positive', 'positive', 'positive']"
-685,"Para ödeyip istediğini yiyememek biraz gereksiz israfa sebep oluyor, bence değişmeli",['negative']
-686,mantısı ficcini zeytinyağlı mezgiti ile cok guzel yer.,['positive']
-687,ama meyhane kismina bir kere oturdugumuzda arkadaslarimizi bekliyorduk zorla 10 tane meze getirdiler eger meze istemiyorsak oturamayacagimizi soylediler.,['negative']
-688,terbiyesiz birkac garsonu dışında guzel bir yerdi,"['negative', 'positive']"
-689,Anadolu Yakasi'nda kebap yenebilecek en iyi ve en nezih yerlerden birisi.,"['positive', 'positive']"
-690,Yemekleri ve ozellikle ara sicaklari cok lezzetli.,"['positive', 'positive']"
-691,Servis cok hizli.,['positive']
-692,Calisanlar guleryuzlu.,['positive']
-693,Cerkez yemekleri sevenler icin guzel bir tercih .,['positive']
-694,"Ozellikle mantisini cok begenmistim, mezeleri vs lezzetliydi .","['positive', 'positive']"
-695,"Sadece son gittigimde calisanlarin muamelesinden hic hosnut kalmadim, bu konuda daha dikkatli olmalilar.",['negative']
-696,Mekan dekorasyonu çok başarılı.,['positive']
-697,Mezeler oldukça güzel ve çeşitli.,"['positive', 'positive']"
-698,Ancak balıklara gelince bir durdum.,['negative']
-699,Bildiğin çiftlik balığı geldi.,['negative']
-700,Daha lezzetli bir ana yemek bekliyordum açıkçası.,['negative']
-701,Fiyatlar ortalama meyhane fiyatlarının üzerinde.,['neutral']
-702,"Etler güzel, eti az ama öz pişiren nadir yerlerden:",['positive']
-703,Penne siciliano yedim yerken guzeldi ama sonra yagindan butun gun midem yandi.,"['positive', 'negative']"
-704,Arkadasim begendili tavuk yedi o da ayni seyi yasadi.,['negative']
-705,"Servis, ilgi mukemmel yemekler midede rahatsizlik yaratabiliyor.","['negative', 'positive']"
-706,Yediğim en iyi sahanda yumurta.,['positive']
-707,Yumurtanın neyi güzel demeyin.,['positive']
-708,"Kavurmalı efsane, saçma demeyin yanında bakır kapta ayranı da için.","['positive', 'positive']"
-709,"Yemekleri standart , mudur tarzinda kapida bekleyen kisi soguk ve ters birisi...","['neutral', 'negative']"
-710,Bize bakan garson yuksek ses ile siparis almasi ayri bir entresan...,['negative']
-711,eskiden daha iyiydi.,['negative']
-712,fiyatlar asiri uçmus.,['negative']
-713,artik lezzete degil popülerligine gidiliyor.,['negative']
-714,"Konum olaral harika , lezzet olarak iyi ancak gerçekten servis her gidişimde aynı kötülükte hiç ödün vermiyorlar bu konuda.","['positive', 'positive', 'negative']"
-715,Birinin bu sorunu çözmesi gerekir,['negative']
-716,"Sıcak, samimi ve içten kütük ev cafe ...",['positive']
-717,Serpme kahvaltıların vazgeçilmezi oldu bizim için haftasonu buraya gelip keyifli vakit geçirebilirsiniz.,['positive']
-718,"Paket olarak dönerlerini aldım, özenle paketlenmişti, uzun bir yolculuk yapmış olmama rağmen açtığımda hala sıcaklığını koruyordu.",['positive']
-719,Malzemeden kısılmaması ve etinin lezzeti beni çok memnun etti.,"['positive', 'positive']"
-720,"Bir gun once ayni saatte oglen menusu getiren garson, bir gun sonra kustahca ""dun insiyatif alip getirdim ama bundan sonra vermem olur biter"" diyerek getirmedi.",['negative']
-721,"Kesinlikle gitmeyin, muamele cok kotu.",['negative']
-722,Iftardan sonra çay veya kahve keyfi yapmak için ideal bir yer.,"['positive', 'positive']"
-723,"Hem bogazin huzuruyla kendinizi dinlendirebilir, arkadaslarla koyu bir sohbetle uzun saatlerce oturabilir ve canli müzik esliginde keyfinize keyif katabilirsiniz.","['positive', 'positive']"
-724,Fiyatlari gercekten pahali fakat kaliteli ve hos bir mekan ariyorsaniz kesinlikle tercih edilebilir.,"['negative', 'positive']"
-725,Ozellikle begendilerine kattiklari damla sakizi o kadar hos bir aroma veriyor ki anlatamam.,['positive']
-726,Baslangiclarinin bir cogunu denedik hepside enfes.,['positive']
-727,Tatli olarak sufleyi tercih ettik ve ona da bayildik.,['positive']
-728,Mukemmel.,['positive']
-729,Tek eksik olarak etin orta pisimisini istememize ragmen cok pismis bir et ile karsilastik.,['negative']
-730,Yıllardır dizaynini aynen koruyan uskudardaki muhteşem yemekleri olan esnaf lokantasi.,['positive']
-731,Esnaf lokantasi na göre fiyatları pahali ve kredi kartı geçmiyor.,"['negative', 'negative']"
-732,Ancak yemekleri gerçekten çok lezzetli.,['positive']
-733,tatlilardan da irmik helvası ve fırında sutlaci öneririm.,"['positive', 'positive']"
-734,Yıllardır İstanbul'daki favori pizzacım.,['positive']
-735,Ben gittiğimde bir pizzayı hiç bir zaman kendim bitiremiyorum.,['positive']
-736,Birden çok pizza denemek adına pizzanın iki yarısını farklı yaptırın derim.,['positive']
-737,Servis porsiyonlar çok çok kötü.,"['negative', 'negative']"
-738,Nerde Bebek şubesi nerde burası tek güzel yanı caddenin bir arka sokağında yeşilliklerin içinde bahçesinin olması,['positive']
-739,Turk kahvesının ıcınden kocaman böcek çıktı.,['negative']
-740,Kahveyı bıtırdığınızde dıbındekı bocekle karsilasiyorsunuz!,['negative']
-741,Yemekleri hesap edin artık!,['negative']
-742,Bir daha asla!,['negative']
-743,Nedendir bilmiyorum ama burayı çok seviyorum.,['positive']
-744,Lynchburgleri çok güzel.,['positive']
-745,Cin li kokteylleri de denemeye değer ama arkadaş bi jager mojito yapamıyorsunuz.,"['positive', 'negative']"
-746,"Otur , 0 !",['negative']
-747,"Alkollü içki almadiginiz bir restda adam basi 80/90 tl hesap cookk fazla ,üstelik gayet az yedik .",['negative']
-748,"Lezzet iyi ama fiyatla orantili degil ,Porsiyonlar az,personel iyi .","['positive', 'negative', 'negative', 'positive']"
-749,Manzara güzel.,['positive']
-750,Kurucesmede olmasına rağmen pek bir derme catma mekan.,['negative']
-751,Sıkış Sıkış yerlestirilmis masalardan dolayi ortam çok ugultulu maalesef.,['negative']
-752,Çok daha keyifli bir yer olabilirdi.,['negative']
-753,O gürültü ortamdan sonra tekrar gidecegimi sanmıyorum.,['negative']
-754,"İthal peynir tabağındaki peynirler çok yetersiz, çoğu ithal bile değil.",['negative']
-755,Böylesi bir mekan için fiyat ortalamanın üstünde kalmış.,['negative']
-756,Açık ortamda yemek isteyenler için güzel bir ortam.,['positive']
-757,Bahçesinde sakince yemeğinizi yiyebilirsiniz.,['positive']
-758,Kuzu sisleri ve lahmacunlari guzeldi...,['positive']
-759,Serviste aksamalar var.,['negative']
-760,garsonlar sürekli bir şey düşürüyor...,['negative']
-761,Kahvaltisi bol cesitli doyurucu hatta genelde biteremiyosunuz fiyati biraz daha uygun olabilirdi calisanlar guler yuzlu ama bulundugu alan ve masalar daha genis olsa daha rahat oturup keyifle kahvaltimizi edebiliriz,"['negative', 'positive', 'positive', 'negative']"
-762,"Merkezi konumu ve geniş menüsü nedeniyle Kadıköy'de çok tercih edilen, çoğu zaman dışarıda yer bile bulamayacağınız mekan.","['positive', 'positive']"
-763,Fakat son iki gidişimde çok pahalanmış buldum.,['negative']
-764,"Yemeklerde bugüne dek bir sıkıntıya rastlamadım, ama çok lezzetli yapıyorlar diyebileceğim bir tek cajun tavuk var.","['positive', 'neutral']"
-765,Şimdilerde gözümde ancak ortalama bir mekan yani.,['neutral']
-766,Tuzla balıkçısının köklü müşterisiyimdir.,['positive']
-767,İlk açıldığı günden bu gününe gelir giderim.,['positive']
-768,Fiyatları gayet uygun olan yer bulmanın bir o kadar zor olduğu şirin bir dükkandan buralara kadar kısa bir sürede gelmiş bir mekanımızdır.,"['positive', 'positive']"
-769,Ama maalesef eski lezzet mi?,['negative']
-770,Mekan ne kadar çok büyüdüyse kalite o kadar düştü.,['negative']
-771,Ah be Sezgin Abi eski lezzetine hasretiz,['negative']
-772,beşiktaşa otobüsle zincirlikuyudan geldiğinizde gözünüze direk çarpan bir mekan.,['positive']
-773,pideleri iyi hizmetide bence üst kat terası çok daha iyi bütük kalabalık gözünüzün önünden akıyor resmen hemen yanındaki ağaç ilede farklı bir hava katıyor,"['positive', 'positive', 'positive']"
-774,Bahariyede gezerken yemek yemek icin buraya gelebilirsiniz mekan guzel sik menu de cesitli gayet.,"['positive', 'positive']"
-775,Fiyatlar da cok pahali degil ortalama duruyordu,['neutral']
-776,Cookshop diyince aklima ilk gelen Magnolia oluyor.,['positive']
-777,Buraya gelipte bu tatliyi denemeden gitmeyin.,['positive']
-778,"Makarnalardan patlicanli,zeytinli penne guzel.",['positive']
-779,Arkadasim lasagne yedi ama pek begenmedi.,['negative']
-780,Servisin gelistirilmesi gerek siparis almaya gec geliyorlar.,"['negative', 'negative']"
-781,Sadece adi num num - Hem Gmall hem Kanyon denedim ama olmadi.,['negative']
-782,"Yemekler basarisiz, menü zengin, servis de basarili ama ilk açildigindaki lezzet kalitesini bozdu.","['negative', 'positive', 'positive']"
-783,Kurufasulye ve Sütlaç - Sürekli gittigim yerlerden biri.,['positive']
-784,"Tereyagini da manzarayla karistirinca, yeme de yaninda yat...","['positive', 'positive']"
-785,Bir de üzerine bolca findik dökülmüs firin sütlaci yedin mi daha ne olsun.,['positive']
-786,Ideal...,['positive']
-787,- Tuzla sahilinde kafede oturup bir seyler içmek için ideal bir yer.,['positive']
-788,Künefesi düsündügümden güzelmis.,['positive']
-789,Bir Hatay künefesiyle kiyaslamasam tabi ki ama lezzetliydi.,['positive']
-790,"Çayi, sahlepi, künefesi ve dondurmasi önerilebilir.","['positive', 'positive', 'positive']"
-791,Limonatasi ev yapimi deniyor hatta içinde nane yapragi vs. düz limonata gelince sorduk nane yapragini su anda yok dediler.,['negative']
-792,Biz sormadan getirdigimizde bilgilendirmesi lazimdi.,['negative']
-793,Yine de Tuzla'da ugrak olunabilecek bir mekan.,['positive']
-794,"Mis gibi Uskudar ;) - Dilruba'ya çikis yolu zorlu, yorucu olsa da nargilesi için gidilmeye deger.","['positive', 'negative']"
-795,Hele kebaplari enfes.,['positive']
-796,Sabahlari ise 100 çesit kahvaltisiyla essiz manzara birlesince insani rahatlatmaya yetiyor.,"['positive', 'positive']"
-797,"Görülmesi gereken, kaliteli bir yer;)",['positive']
-798,Dün ailece essiz lezzetleri tatdigimiz Mabeyn deydik.,['positive']
-799,Tatlilar muhtesemdi.,['positive']
-800,Hesap gelene kadar tadimizda çok iyiydi.,['negative']
-801,342 TL çok fazla.,['negative']
-802,Içki servisi kaldirilmis olmasi garibime gitti açikcasi.,['negative']
-803,Degisik pide türleri caniniz çekiyorsa denenebilir.,['positive']
-804,eh iste.,['neutral']
-805,ama çok pide yemeyenler için güzel diyebilirim.,['positive']
-806,çorbasi soguk geldi.,['negative']
-807,Tadi pek yoktu.,['negative']
-808,suflesi normal.,['neutral']
-809,Besiktas ta merkezi yerde.,['positive']
-810,Fakat yemekleri baya standart hatta bazıları bi hayli kotu...,['negative']
-811,Tavsiye edebileceğim tek şeyi dondurması olur sanırım.,['positive']
-812,Geniş çay menüsü ve bence alelade demlenen çaylar.,"['negative', 'positive']"
-813,Kaliteli olabilirler ama ne gramına ne demleme süresine ne de sıcaklığa dikkat edildiğini sanmıyorum.,"['positive', 'negative']"
-814,Bir paket çay alabildiğim ücrete daha iyi bir şey beklerdim.,"['negative', 'negative']"
-815,Tatlıları için gelinebilir.,['positive']
-816,"Miss Pizza ""çok iyi"" olmasa da İstanbul'da en iyiler arasında sayılabilir.",['positive']
-817,"Dışarıda yer vermiyorlar, içerisi boşken yerimiz yok diyorlar, Öğlen 12'den biraz önce gidince daha açılmadık diyorlar vb...",['negative']
-818,Yemeği fena olmasa servisi nedeniyle hayatta uğramayacağım yer.,"['neutral', 'negative', 'negative']"
-819,İyi bir kaliteye böyle bir hizmet hiç yakışmıyor.,"['positive', 'negative']"
-820,Kullanılan malzemeler çok iyi değil ancak ortalamanın üstü ve hamuru gayet iyi yapıyorlar.,"['positive', 'neutral']"
-821,Pizzaları gayet doyurucu ve çeşitli.,['positive']
-822,Değişik tatları tatmak isteyenler için iyi bir alternatif.,['positive']
-823,Özellikle kabaklı pizzası gayet başarılı.,['positive']
-824,Servis konusunda ise ciddi sıkıntıları olduğunu düşündüğüm bir yer.,['negative']
-825,Her seferinde mutlaka bir problemle karşılaşıyoruz.,['negative']
-826,Çalışanlar gerçekten burnundan kıl aldırmıyor.,['negative']
-827,Çok defa geri dönmüşlüğüm de vardır.,['negative']
-828,Manzara konum çok çok güzel.,"['positive', 'positive']"
-829,Boğazda balık için İstanbul'daki belli başlı yerlerden olmasına rağmen böyle bir manzara için lezzet biraz daha arttiralabilinir diye düşünüyorum.,"['positive', 'negative']"
-830,"Fiyatlar yüksek ama gerçek boğazda balığın bedeli var, ambians ve konum dolayısı ile fiyatlara laf söylemek doğru değil.","['positive', 'positive', 'neutral']"
-831,Boğazda balıklı romantik akşam yemeği için ...,['positive']
-832,Once kirk saat istegimiz soslari bekledik cunku tum soslar baskalari tarafindan kullaniliyordu.,['negative']
-833,Sorum su ki alti ustu bir mayonez ne kadar bulunmasi zor olabilir ya da maliyeti nedir ki bu kadar az alinir?,['negative']
-834,Yemege gelince ise tatsiz tutsuz bir yemekti begenmedik.,['negative']
-835,Yemek bitince hadi kalkin tavirlarina girildi.,['negative']
-836,Ozetle uzatmadan musteriye yoluncak kaz gozuyle bakilmaktadir.,['negative']
-837,Bendemi var bir hoşnutsuzluk anlamadım.,['negative']
-838,"Bereketli bir mekan hafta içi,cumartesi kuyruk kapıda.",['positive']
-839,Lakin bir kez soğuk gelen çorbayı garsona söylediğimde hiç oralı olmadı.,['negative']
-840,anlaşılan müessesede bir doymuşluk var.,['neutral']
-841,Bence orada en leziz olan lavaş.,['positive']
-842,lavaş yediriyor gibi.,"['negative', 'positive']"
-843,Döneri çok beni sarmadı.,['negative']
-844,En önemli özelliği olan döneri hariç geri kalan her şey iyiydi.,"['negative', 'positive']"
-845,"Yemek öncesi ikramlar, garsonların ilgisi ve servis hızı güzeldi.","['positive', 'positive', 'positive']"
-846,Ama döneri methedildiği kadar değilmiş.,['negative']
-847,"Manzarası süper, zaten süper olan başka birşeyde yok.","['negative', 'positive']"
-848,Diğer lezzetlerin tamamı standart.,['neutral']
-849,Bu lezzetlere göre uygılanan fiyatlarda pahalı bence.,['negative']
-850,Manzara parası eklenmiş yiyeceklerin üzerine,['negative']
-851,"Tünel'de ev yemeği yemek için güzel bir alternatif ve lezzetli olsa da rahatlık açısından bana iyi bir hissiyat vermemişti, hemen yemek yiyip kalkmalık mekanlardan çünkü masa sayısı çok az ve masanı yüksek ihtimalle başkalarıyla paylaşıyorsun.","['negative', 'positive']"
-852,Yine de ayda yılda bir gidilebilir.,['neutral']
-853,Zeytinyagli yemekleri cok basarili ve her yerde olan klasik yemekler yerine farkli tatlar var.,"['positive', 'positive']"
-854,Oldukca da bol kepceden hizmet veriyorlar ve 5cesit zeytinyagli icin 13-14tl oduyorsunuz.,"['positive', 'positive']"
-855,"ogle yemeklerinde hele de yazin favori yerlerimden,ama maalesef ufak bir mekan oldugu icin yer bulmak zor olabiliyor ama birazcik beklerseniz imkansiz degil","['positive', 'negative']"
-856,Manzarası süper.,['positive']
-857,Gerçekten çok güzel bir konumda yer alıyor.,['positive']
-858,Servisi hızlı.,['positive']
-859,Ne zaman gitsek güler yüzle ayrılıyoruz.,['positive']
-860,Köfteleri de lezzetli.,['positive']
-861,Taksimin kalabalik dar sokaklarindan kucucuk bir kapidan girip ulastiginiz yemyesil bir bahce adeta kucuk bir supriz :,['positive']
-862,) biz burayi cok sevdik cok romantik cok tatli.,"['positive', 'positive']"
-863,Tek kusuru masalar biraz yakin birbirine.,['negative']
-864,Kirmizi limonata ve limon vitamin tercih ettik ve ikisine de bayildik.,"['positive', 'positive']"
-865,Mutlaka gelin gorun.,['positive']
-866,Manzarasi mukkemmel denize sifir olmasi sebebiyle.,['positive']
-867,Bahcesi huzurlu.,['positive']
-868,İcerisi icin ayni seyi soyleyemiycm temiz bulmuyorum.,['negative']
-869,Self servis olayi sıkıcı.,['negative']
-870,Bir yandan iyi pesinizde dolanan garsonlar yok.,['positive']
-871,Girip hava almak icin oturabilceginiz br yer.,['positive']
-872,"Çok kalabalık olduğundan pek sohbete uygun değil, ancak mekan gayet güzel, iç kısım çok güzel kokuyor.","['positive', 'positive']"
-873,Ama kalabalık ve gürültüden dolayı çok fazla duramadık.,['negative']
-874,Eski performansini ariyoruz - Baslarda müptelasi oldugum ama son zamanlarda kalitesi oldukça düsen bir mekan.,['negative']
-875,Ilk kez yiyen için mükemmel ama ilk açildigindaki lezzeti kaybetti.,"['positive', 'negative']"
-876,En iyi konumlu ögretmenevi!,['positive']
-877,"- Anadolu Hisari'nin hemen yanindaki Sabanci Ögretmenevi, herkesin kullanimina açik olan bir tesis.",['neutral']
-878,"Toplamda 4 salon ve bir kafeteryadan olusan tesiste uygun fiyat hizmet almak ve 4 ayri salonda dügün, nisan, okul yemegi, toplanti gibi organizasyonlar gerçeklestirmek mümkün.",['positive']
-879,Kafeteryasinin self servis olmasi bir eksi gibi görünse de Bogaz'daki çay keyfi tartisilmaz!,"['positive', 'negative']"
-880,"Tamam yemekler guzel de, pilav da kurufasulye de soguk!","['negative', 'positive']"
-881,"Cok kalabalik oldugu icin servis de aksiyor tabii, calisanlar bikkin.",['negative']
-882,"Bir kere gittim, bir daha gitmem.",['negative']
-883,Hani sizi keyifli sohbet ortamlari ile bütünlestiren ve ardindan damakta biraktigi Lezzet ile müdavimi yapan yerler vardir!,"['positive', 'positive']"
-884,Pazar kahvaltilari benim Için mabeyin'dir.,['positive']
-885,Namini duyup gittigim yerlerden ama mezeler gelince ortada nam falan kalmadi malesef.,['negative']
-886,Ayrica sacma sapan hesapta gelip sonrasinda bahsisle calisan valenin para diye tutturmasida cabasi.,"['negative', 'negative']"
-887,Begenmedim malesef.,['negative']
-888,"Bize mi denk geldi bilmiyorum ama, uzun zamandır yediğim en kötü yemeği burada yedim, üstüne servis de çok çok kötüydü.","['negative', 'negative']"
-889,Menünün hiç bir özelliği yok.,['negative']
-890,"Birbirinin kopyası olan, standart kafe yemekleriyle müşteri kazıklamaya çalışan tipik yerlerden biri.","['negative', 'negative', 'negative']"
-891,Hisarüstüne çok yakışan bir bar olmuş iç dizaynını çok güzel yapmışlar ama kış aylarında biraz soğuk olma problemi var :,"['positive', 'negative']"
-892,( 4 tarafı cam olduğu için yeterince ısıtamıyorlar.,['negative']
-893,Yılbaşı için 100 liraya sınırsız yabancı alkollü bir etkinlikleri olması da çok güzel :,['positive']
-894,Hamburgerini pek beğenmedim ama diğer yemekleri lezzetli olabilir belki.,"['positive', 'negative']"
-895,Sürekli kalabalık olan bir mekan.,['negative']
-896,Kadıköydeki gözde mekanlardan biri,['positive']
-897,Çay denilince akla ilk gelen yer:,['positive']
-898,)) 60'a yakın çeşitte çaydan birini mutlaka seviceksiniz:,['positive']
-899,) ben karamel aramalı çayı çok sevdim adını hatırlamasamda siz içinde karamel var dediğinizde tek gelicek o olucaktır:,['positive']
-900,)) mekan inanılmaz keyifli içerdeki koltuklardan kalkmak istemiyor insan:,['positive']
-901,Kesinlikle verdiğim puanı hakeden bir mekan.,['positive']
-902,Küçük şirin bir konsepte sahip.,['positive']
-903,Pizza Fagotto favori lezzetim ve daha iyisini yiyene kadar benim için en iyi pizza bu.,['positive']
-904,Düsen kalite - Eskiden ne çok severdim patlicanli güveç kebabini...,['negative']
-905,Yakinlarda gittim servis berbat.,['negative']
-906,"Fiyat yüksek, kart geçmiyor...",['negative']
-907,Yine de sorbe dondurmasi güzeldir.,['positive']
-908,Kısıklı'ya yakın olan mekanın Şatobiryan isimli etini deneyin.,['positive']
-909,Özel bir sunumla masanıza geliyor.,['positive']
-910,Bir de mantar çanakları denenebilir.,['positive']
-911,"Harika manzara, güzel lezzetler - Manzarasi ve yiyecekleri son derece güzel, her çesit yiyecek mevcut ve son derece lezzetli fiyatlari ise çok çok uygun.","['positive', 'positive', 'positive', 'positive']"
-912,Halka açik olmasi ise son derece güzel.,['positive']
-913,Çok kalabalik olusu ve yer bulamamak sikinti olsa da gidilmesi gereken yerlerden biri.,"['positive', 'negative']"
-914,Hisarustu'ndeki en genis mekan olmasina ragmen ferah bir yer degil.,['negative']
-915,"Kalabalik gruplar icin uygun, bu acidan buyuk avantaj sagliyor.",['positive']
-916,Belli bir saate kadar bistro seklinde olusu da guzel.,['positive']
-917,Yazin camekan olmasi hos ancak kisin donmustuk.,"['positive', 'negative']"
-918,Ilk kez kıs gecirmesinden midir bilmem ama su da akiyordu tepemizden.,['negative']
-919,"Kendi biralarindan denenmeli, guzel biralar vardi.",['positive']
-920,Isterseniz denemek icin farkli biralardan kucuk bardaklarda alabiliyorsunuz.,['positive']
-921,"Keyifli bir ortam ve cok da kalabalik degildi, tavsiye edilir",['positive']
-922,"Alkol çeşitliliği, yemekleri, dekorasyonu, barmeni, müşteri profili olarak benim için Kadıköy'dekl en iyi mekandır.","['positive', 'positive', 'positive', 'positive', 'positive']"
-923,"Çalışanların, işletmecinin hatta sahibinin misafirperverliği ve samimiyetini başka bir mekanda bulabileceğinizi sanmıyorum.","['positive', 'positive', 'positive']"
-924,Her daim gidilebilecek bir mekan.,['positive']
-925,Kadıköy'ün kemik mekanı.,['positive']
-926,Hep klasik kaliteyi bulabilmeniz mümkün.,['positive']
-927,Hafta sonu kahvaltısı için de gönül rahatlığıyla tercih edebileceğiniz bir mekan,['positive']
-928,Ramazan ayında gitme fırsatı buldum yeşillik içinde hoş ve düzgün bir mekan.,['positive']
-929,İftar öncesi ve sonrasında güzel müzik ziyafeti sundular.,['positive']
-930,Esas konumuz olan yemeklere gelince çok pozitif olamaycağım.,['negative']
-931,ben aynı fiyatlara çok daha lezzetli yemekler yiyorum bu şehirde.,['negative']
-932,Mekanı bilmeyeniniz yoktur.,['neutral']
-933,"Kız kulesi karşısında eşşsiz bir manzara , meşhur olduktan sonra tabiki her yer gibi lezzet kalitesi düşüyor.","['negative', 'positive']"
-934,"Telefonla aradığımda rezervasyon alamıyoruz deyip, oraya gittiğimde istediğim masaya ""orası rezerve beyefendi"" diyerek oturtmayan, insanları görünüşüne göre açıkça tersleyen ukala ve sevimsiz garsonlara sahip.",['negative']
-935,Big Chefs isminin verdiği güven ve muhitinde rakibi olmaması yüzünden sürekli dolu olabilir ama böyle giderlerse çok müşteri kaybederler.,['negative']
-936,Hamburgerlerini seviyordum ama son deneyimim beni mutlu etmedi.,"['positive', 'negative']"
-937,Bir kez daha sans vereceğim.,['neutral']
-938,"Servisi bazen iyi, bazen kötü.",['neutral']
-939,Mekan tasarımı iyi.,['positive']
-940,Ikisi de birbirinden lezzetli.,['positive']
-941,Hatta sanirim hayatimda yedigim en lezzetli Tavuk Gögsü'nü yedim.,['positive']
-942,) Bu arada hizli servis için tesekkür ediyoruz.,['positive']
-943,Tatli krizi ancak böyle sahane bastirilabilirdi.,['positive']
-944,mekan emniyet mah cafe ve restorant olmak sartiyla iki bölümden olusuyor her ikisinide denedim gayet genel itibari ile güzel bir mekan kuzu bonfilesi güzeldi ilgi normaldi çok kalabalik bir mekan içecekler genel olarak güzeldi giriste mini sarküteride alisverise isik tutuyor güzeldi fiyatlar birazcik fazla,"['neutral', 'negative', 'positive', 'positive', 'positive', 'positive']"
-945,gerçekten bir özelligi olmayan çesidi bol konumu itibari ile talep gören çok sikisik havasiz normal bir mekan fiyatlar hayli yüksek süper bir özelligi olan bir yemegi varsa söyleyin arkadaslar,"['positive', 'negative', 'negative']"
-946,Servisi ve yemekleri bu kadar kötü restorant bulmak istanbulda zor olsa gerek.,"['negative', 'negative']"
-947,"Yenmeyecek kadar kötü kebaplari, ukala garsonu ve en lüks restoranda ödeyecegini alkollü yemek fiyatiyla karsilasirsiniz.","['negative', 'negative', 'negative']"
-948,Belediye bu isletmenin ruhsatini acil olarak iptal etmelidir.,['negative']
-949,Herseyi birakin manzarasi yeter zaten.,['positive']
-950,Denize sifir hatta oyle ki gecen gemilerden dolayi olusan dalgalar sizi islatir mi acaba diye bir korkuya kapiliyorsunuz ;) kahve ic manzarayi yani bogazi seyret yetti de artti bile.,['positive']
-951,Sadece manzarası başka bence artı değeri yok.,"['positive', 'negative']"
-952,O da eğer yer bulabilirseniz.,['negative']
-953,Çalışanları çok kaba.,['negative']
-954,Sizi saatlerce sırada bekletip önünüze başkalarını alabiliyor.,['negative']
-955,Passion fruit'lu dondurması ve içeceğini beğendim.,"['positive', 'positive']"
-956,Aşşk-ı Memnu vasat bir tada sahip bence.,['neutral']
-957,Bir daha gider miyim?,['neutral']
-958,Fena değil ama menemen için fiyat yüksek.,"['neutral', 'negative']"
-959,"Bu arada porsiyon da oldukça büyük, iki kişiye rahatlıkla yeter.",['positive']
-960,Çok sulu olduğu için zaten bol ekmekle yeniyor.,['neutral']
-961,Tam anlamiyla harika bir mekan ic mekan konseptiyle tam kis mevsimine uygun ozellikle kisin kahvalti icin guzel bir mekan ariyorsaniz buraya bi ugrayin derim,"['positive', 'positive']"
-962,Özellikle güzel bir havada gidiyorsanız deniz kıyısındaki masalarında oturmak için epey bi sıra bekleyebilirsiniz.,['negative']
-963,"Mekan küçük ama şirin, aşk-ı memnu'yu daha önce hiç bitiremedim ama gerçekten çok güzel bir tadı var.","['positive', 'positive']"
-964,"Servis sıkıntılıydı, sevemedim.",['negative']
-965,Ayrıca bahsettiğim meşhur tatlı 21 tl,['neutral']
-966,Aslında doymuştuk ama gözümüzün açlığından patatesli mantısını da denedik gayet iyiydi ama ekstra bir özelliği yoktu.,['neutral']
-967,İçerisi biraz yemek kokuyordu ve çalışanlarında gereksiz bir negatif enerji vardı.,"['negative', 'negative']"
-968,İnşallah sadece o güne özgü bir negatifliktir çünkü Fıccın'ın tadı damağımda yine gitmek gerek.,"['negative', 'positive']"
-969,Fiyatlar gayet uygun.,['positive']
-970,Bu civarda güzel kahvaltı edilecek yerlerden diye girdik ama durum pek öyle olmadı.,['negative']
-971,Menemeni güzel denebilir.,['positive']
-972,Ama kahvaltı seçenekleri zayıf zira fotoğraftaki sözde zengin kahvaltı tabağı karar sizin.,['negative']
-973,Zengini buysa normali nasıl olur.,['negative']
-974,Çok övülüp merak ettiğimiz ama yine pişman olduğumuz bir yer.,['negative']
-975,Bu kadar popülersin o kötü durumdaki mekanı tadilattan geçirmek çok mu zor.,['negative']
-976,Adıyla meşhur menemen yiyeyim dedim domates kabuğu ayıklamaktan hiçbir şey anlamadım.,['negative']
-977,O kabukları soymak ne kadar zor ki?,['negative']
-978,Sucuklu yumurtasında da sucuklar fazla pişmişti.,['negative']
-979,Herşeyine kefil Olduğum bir mekan.,['positive']
-980,Garsonlarından aşçılarına kadar çok iyiler burada yediğiniz yemekler ve tabakların taklidi bulabilirsiniz ama bu tadı başka yerde bulamazsınız kardeşler keep calm and eat from Happy Moons,"['positive', 'positive']"
-981,"Adı üzerinde ""menemeni"" ile ünlü, sıcak, samimi, esnaf restoranı.",['positive']
-982,"Menemeni leziz, balı enfes ama çayı için olumlu bir yorum yapamayacağım.","['positive', 'negative', 'positive']"
-983,Karşısında da lokantası bulunuyor ama ben size derim ki gidin menemen ve bal kaymakla güzel bir kahvaltı yapın.,['positive']
-984,"Fiyatlar da gayet uygun, ortalamanın altında.",['positive']
-985,"Sampi, avarajda olsa da, otobüs yolculuğu yapanların mutlaka uğradığı yerdir.",['neutral']
-986,"Pideleri çeşitli, daha çok Karadeniz pidesi türünde.",['positive']
-987,"Özellikle gitmekten öte, denk gelince gidileceklerden bence.",['neutral']
-988,Happy moon's ların yüz karası.,['negative']
-989,Çalışanlar çok kötü.,['negative']
-990,Lezzet sıfır.,['negative']
-991,Menüde alkol bulundurmayan tek gereksiz happy moon's.,['negative']
-992,Olduğu sokaktaki siz masada yemek yerken ki yanınıza yapışanlarla da mücedele edemesi cabası.,['negative']
-993,Kis aylarinda tercih sebebi - Özellikle kisin bu kütük evde sahlep içmek oldukça güzeldir.,"['positive', 'positive']"
-994,Aparatifleri de açliginizi yaristirmak için birebirdir.,['positive']
-995,Nargilesi de mevcut olan mekan genelde hep doludur.,['positive']
-996,Kuru fasülye için tercih etmek gerek diye düsünülsede tereyagli pilavi çok daha dogal.,['positive']
-997,Kuru hakikaten lezzetli ama içindeki yagin margarin oldugunu hissediyorum.,"['positive', 'negative']"
-998,Bu lezzetlerin yaninda verilen küçük aci biberler bence sofranin favorisi.,['positive']
-999,((( hayal kirikligi - Uzunlar'a ilk gittigimdeki tadi ikinci gidisimde bulamadim...,['negative']
-1000,Ilk gittigimde çok lezzetli gelen dürüm 2. gidisimde tam bir fiyaskoydu çok yagli oldugundan yiyemedik arkadaslarla aç kaldik resmen :,"['positive', 'negative']"
-1001,"((( Mekanin kalabalik olmasindan mi kaynakliydi bu dikkatsizlik anlam veremedim, bu kadar övgü almasina ragmen böyle olumsuz bir durum ilginç geldi.",['negative']
-1002,Seyir terasi - Istanbul'u seyretmenin en çok keyif verdigi yerlerden biridir.,"['positive', 'positive']"
-1003,Manzarasi sakinlestirir ve huzur verir.,['positive']
-1004,Personel ilgilidir.,['positive']
-1005,Burada kendinizi kötü hissetmezsiniz ve mutlu ayrilirsiniz.,['positive']
-1006,"Lezzetli yemekler, rahat ortam ve uygun fiyatlar.","['positive', 'positive', 'positive']"
-1007,Tek sorunu ulaşımı birazcık sıkıntılı.,['negative']
-1008,Özel aracımızla nereden gireceğimizi pek kestiremedik ancak 10 dakikalık bir çaba sonununda mekana ulaştık.,['negative']
-1009,Yemeğin ardından cafe ortamına devam edebilirsiniz.,['positive']
-1010,"Aynı zamanda Tavla, okey gibi oyunları da oynayabileceğiniz bölümleri var.",['positive']
-1011,Gayet kullanışlı ve uygun.,['positive']
-1012,Yazın daha da güzel olan mekan.,['positive']
-1013,en sevdıgım big chef şubesi arkadaşlarınızla keyifli zaman geçireceğiniz bu mekan göksunun incisi tekrar gidiceğinizden emin olabilirsiniz,['positive']
-1014,Manzaradan kurtaran bir mekan.,"['positive', 'negative']"
-1015,Pek sevmedim acikcasi.,['negative']
-1016,Kofteleri de cok cok mukemmel degil.,['neutral']
-1017,Idare eder denilebilir.,['neutral']
-1018,Guler yuz yok.,['negative']
-1019,Gurultulu ve aksam saatlerinde oldukca kalabalik oluyor.,['negative']
-1020,Oturduğunuz sürece sürekli patlamış mısır getiriyorlar.,['positive']
-1021,Durmazsanız bir saat içinde yaklaşık 10 kase falan yiyebilirsiniz.,['positive']
-1022,Ayrıca en son Premier League maçlarını da veriyorlardı.,['positive']
-1023,"Kuru fasulyenin lezzetine diyecek söz yok, fiyatlar da makul sayılır ancak mekan düğün salonundan bozma.","['negative', 'positive', 'positive']"
-1024,En nihayetinde kuru fasulyeci ancak ortam daha zevkli hale getirilebilir.,['negative']
-1025,"Mekanin konumu çok muhtesem konsept, hizmet ve ürünler vasat.","['neutral', 'positive', 'neutral']"
-1026,- Anadolu hisarinda bir tarafi Göksu Deresi diger tarafi Istanbul Bogazinin akip giden masmavi sulari ama hepsi bu kadar.,"['positive', 'negative']"
-1027,Ben farkli zamanlarda gittim ama mekanin kimligi enerjisi bana hitap etmiyor...,['negative']
-1028,Mutlaka müdavimleri vardir ama beni çekmiyor.,['negative']
-1029,Ama bu mekan iyi bir isletmeci ile söyle iyi bir sekilde elden geçse çok iyi isler çikar buradan...,"['positive', 'negative']"
-1030,Konum olarak aslinda çok güzel bir yerde.,['positive']
-1031,Belki mekanin üst kisminda otursaydik büyük bir ihtimal manzarada vardir ama biz maalesef otoparkta oturdugumuz için arabadan ve agaçtan bir sey göremedik.,['negative']
-1032,Sanirim ramazana özel bir uygulamaydi bu otoparkta masa.,['neutral']
-1033,Eger gidecekseniz özellikle mekanin üst katlarinda olmasini isteyin.,['neutral']
-1034,Lezzet konusunda da aman aman bir lezzeti yoktu.,['neutral']
-1035,Manzarasi için giderim diyorsaniz denenebilir.,['positive']
-1036,"Içi gayet sikici, kredi karti geçerli olmayan, çorbayi kase yerine düz tabakta servis eden, personeli asik suratli, etlerin sadece bir parça olarak geldigi ve neden bu kadar meshur oldugunu anlayamadigim gereksiz bir yer.","['negative', 'negative', 'negative', 'negative']"
-1037,"Son derece kotu servis, anlatilamayacak kadar hizmet sekorunden uzak, baska bir dunyada personel.","['negative', 'negative']"
-1038,Bir kebapci icin olmazsa olmaz olan iyi servis ve guleryuzlu ilgili personeli burda hayal bile etmeyin.,"['negative', 'negative']"
-1039,"Servis de personel de koca bir ""0""","['negative', 'negative']"
-1040,servis yavastu .,['negative']
-1041,garson a nie yavas oldugunu sordugumda 500 kisi var normaldir cvbini aldim.,['negative']
-1042,kesinlikle tercih etmicem bi daha,['negative']
-1043,"normal - Pizzalari yeterince ince ama spesifik bir tadi eksik,mekan olarakta cok ozel olmadigindan gidilmesine gerek olmayan bir yer kanimca.","['negative', 'negative']"
-1044,Rezalet otesi bir mekan.,['negative']
-1045,Cok kaba saba garsonlari ve hizmeti olan dandik bir mekan.,"['negative', 'negative']"
-1046,"Manzarasi disinda tirt, sunumu da berbat gercekten.","['negative', 'negative', 'positive']"
-1047,Tatli yemek istedik kalkin baska yere oturun dedi terbiyesizler.,['negative']
-1048,Tevazuya gerek yok abartı da değil.,['neutral']
-1049,İstanbulun en iyi dönerini yapıyorlar.,['positive']
-1050,Ancak servis harika 250 kişilik dükkanda herkese yetişiyorlar.,['positive']
-1051,"Dönerin yanındaki patates, salata bile süper.",['positive']
-1052,Havuç dilimi tatlı da denenebilir.,['positive']
-1053,Tek eksik ayranı kendilerinin yapmaması.,['negative']
-1054,Böyle bir yer için el yapımı ayran şart.,['negative']
-1055,"Mekan çok güzel, menüde 10larca seçenek var ama malesef yemekler lezzetli değil.","['positive', 'positive', 'negative']"
-1056,Tüm puanı mekan hakediyor.,"['negative', 'positive']"
-1057,Kahve içmek isterseniz güzel bir tercih ama yemek yemek için aynı şeyi söyleyemeyeceğim,"['negative', 'positive']"
-1058,Büyük porsiyonlar anca bir normal porsiyon olduğunda küçük pizzalari tavsiye edemem.,['negative']
-1059,Ortam olarak baya küçük bir dükkân ve ortaköye uygun.,['positive']
-1060,Hamur biraz fazla inceydi ve peynir daha bol olabilir.,"['negative', 'negative']"
-1061,Domates sosu malesef çok zayif kaldi ve pizzanin seviyesini düşürüyor.,"['negative', 'negative']"
-1062,Fiyatlar orta ile yüksek arasi.,['negative']
-1063,"Kendi biralarını çoğunluğun aksine pek beğenmedim, hatta ilk defa bir birayı bitiremedim.",['negative']
-1064,"Biraz boğucu bir mekan, haftasonlari özellikle çok kalabalık oluyor.",['negative']
-1065,Kalabalığın içinde hiç beklenmeyecek kadar ferah ve güzel bir mekan.,['positive']
-1066,"Bunun dışında, her ne kadar çoğu zaman talebi karşılamasa da sundukları bira menüsü burayı çok çekici kılıyor.","['negative', 'positive']"
-1067,Yemekleri de çeşit konusunda çok zengin değil ama lezzetli.,"['negative', 'positive']"
-1068,"Denediklerimizden, Tavuk Schnitzel mükemmel, Tavuklu Wrap harikaydı!","['positive', 'positive']"
-1069,Bir de çeşitli homemade ice tea ve limonataları gerçekten başarılı :,['positive']
-1070,Etleri mezeleri basarili ama porsiyonlar inanilmaz buyuk.,"['positive', 'neutral']"
-1071,3 kisi 2 kisi icin getirdiklerini rahatlikla yiyebilir.,['neutral']
-1072,3 gidip 2 kisilik getirin derseniz yiyecekler bu sekilde geliyor ama kisi basina 70tl yaziyorlar cok sacma olmus,['negative']
-1073,5 çayının ideal adresi karaköy'de dem.,['positive']
-1074,50'den fazla çay çeşidi ile damak zevkinizi bi yerde yakalayacağı kesin!,['positive']
-1075,"Benim tavsiyem vanilya aromalı bourban vanilla, tatlı ihtiyacınız içinse damla sakızlı mastika keki.","['positive', 'positive']"
-1076,"Hizmet, ilgi alaka herşey şahane!",['positive']
-1077,iyi ki gittim de yedim dediğim bir şey yok.,['negative']
-1078,oturma yeri de çok yok.,['negative']
-1079,bu kadar meşhur olması bana garip geldi açıkçası.,['negative']
-1080,Manzara severlere...,['positive']
-1081,"- O manzaraya bu yemekler, bu servis olmamis :","['positive', 'negative', 'negative']"
-1082,"(( Üstelik fiyatlarda, yemeklerine nazaran uygun degil.","['negative', 'negative']"
-1083,Yemekleri için giderseniz memnuniyetsiz ayrilabilirsiniz; ama manzara seviyorsaniz kesin gidilmeli.,"['positive', 'negative']"
-1084,Kadiköy'de gitmekten zevk aldığım mekanlardan birtanesi.,['positive']
-1085,"English pub tarzında dekorasyona sahip, bira çeşitliliği fazla olan tarz bir mekan.","['positive', 'positive', 'positive']"
-1086,"Yemek olarak schinitzel ve burger denedik, biranın yanında iyi gitti.",['positive']
-1087,Kış aylarında içeride oturmanızı öneririm dekorasyon ve ortam keyif veriyor...,['positive']
-1088,Dekorasyonu renkleri cok sicak ve sevimli.,"['positive', 'positive']"
-1089,Ev yemeği yemek isteyenler için ideal bur mekan tek bir şartla ne yiyecegini bilmen lazım çünkü hersey cok lezzetli degil.,"['positive', 'negative']"
-1090,"Servis yavas, çalışanların birbirleriyle diyaloglarıni da pek sevmedim.","['negative', 'negative']"
-1091,Mekan kalabalık olduğunda stres kontrolu diye bişey kalmiyor sanirim.,['negative']
-1092,İstanbul şubesi çokta güzel değil çaldıkları müzikler hard rock'tan çok popüler olmuş.,"['negative', 'negative']"
-1093,Arka bahçesi tüm yorgunluğunu alıyor insanın.,['positive']
-1094,Koşuyolunun en iyilerinden kirpi en çok diyet yapanların sevdiği bir mekan çünkü menüsü sağlıklı beslenmeye uygun.,"['positive', 'positive']"
-1095,Masa yerlesimleri pek guzel degil oturma duzeni olmamis.,"['negative', 'negative']"
-1096,Yer bulmak da zor oluyor.,['negative']
-1097,Cok cesitli caylar var ancak fiyatlari biraz yuksek.,"['negative', 'positive']"
-1098,İngiliz cayi istedigimde sut getirmediler gerekce olarak da kotu oldugunh soylediler garson tersledi hatta,['negative']
-1099,Kurufasülye ne kadar değişik olabilir demeyin Bizce Kuru'da yediğim kurufasulyeden gelen hafif şekerli tat beni kendine hayran bıraktı resmen.,"['positive', 'positive']"
-1100,Tereyağlı pilavları ve tava yoğurdu da çok başarılı.,"['positive', 'positive']"
-1101,Üzerine bal ve fındık dökülmüş sütlaçları çok cezbedici gözükse de sütlaç tadını alamadım daha çok muhallebi gibiydi.,"['negative', 'positive']"
-1102,Ayrıca hergun çıkardıkları farklı zeytinyağlı yemekleri de çok başarılı.,['positive']
-1103,Fiyatlar ortalamanın biraz ustunde malesef.,['negative']
+0,Serviste cok guzel.,['positive']
+1,Ortam cok guzel.,['positive']
+2,Lezzetliydi.,['positive']
+3,En beğendigimiz sushico şubesi.,['positive']
+4,Bahçesi çok güzel ve ferah.,['positive']
+5,Sushi ustasi cok becerikli ve şakaci :,['positive']
+6,) yogun oldugu saatlerde servis biraz aksak olsa da kabul edilebilir buluyoruz,['negative']
+7,Menü çeşitleri zengin.,['positive']
+8,Fiyatları normalin biraz üstünde ama yinede caddedeki yorgunluğu atmanız için ferah ferah oturabileceğiniz mekan.,"['positive', 'negative']"
+9,- Herkesin muhallebisini ya da süt tatlilari yedigi yerin ben künefesini begeniyorum.,['positive']
+10,Favorilerim biçak arasi ve saç arasi ama tavuk sis ve diger ekmeklerde (kasarli ve kiymali) çok basarili.,"['positive', 'positive', 'positive', 'positive']"
+11,Konyada yemedim ama yiyenlerinde begendigi bir mekan.,['positive']
+12,Servis iyi olmadigindan michelin yildizli yemek yapsalar gözüme görünmüyor.,['negative']
+13,35 derece yaz sicaginda buzdolaplari bozuk diye sicak kola getirdiler bu sefer de.,['negative']
+14,Buradan içeri girersiniz karşılamasından tutunda etten önce gelen kuverdeki turşuya kadar hepsi özenle seçilmiş hazırlanmış mekanın ve tatların içinde gezer durursunuz.,"['positive', 'positive']"
+15,Et menüsünden istediğinizi seçebilirsiniz hepsi olabileceğinin en iyisidir .,['positive']
+16,Tatlılar da bir o kadar harikadır.,['positive']
+17,Mekanın sahibi Beyti Bey her oraya gidişinizde masanıza uğrayıp selam verir.,['positive']
+18,Söylenecek daha da birşey yok kesinlikle güzel yemek yemek istiyor ve risk almak istemiyorsanız bana kalırsa Beyti'den iyisi yoktur !,['positive']
+19,Özellikle yabancı misafirlerinizi ağırlamak için osmanlı tarzı dekorasyonu ve akıl almaz lezzetleri sayesinde türk mutfağını tanıtmak için çok uygun...,"['positive', 'positive']"
+20,"Servis kotu, mekan fazla aydinlik ve gurultulu.","['negative', 'negative']"
+21,Garsonlarin ilgisizligi cabasi.,['negative']
+22,Yemekler soguk ve gec geliyor.,"['negative', 'negative']"
+23,Tek guzelligi Marina manzarasi.,['positive']
+24,Bide Cikolatali Karayip katlarini met etmeden yapamiycam.,['positive']
+25,İstikrarli.,['positive']
+26,- Her gittigimde bir öncekinden daha kötü susi yapmayi nasil yapmayi beceriyorlar?,['negative']
+27,Sushiler gene basarili; ama yemekler ciddi anlamda bozuldu.,"['positive', 'negative']"
+28,Cok guzel hepsi birbirinden guzel yemeklerinizz ve lezzetli sonrasinda.,['positive']
+29,Garsonlarin servis sunumunda hersey dört dört lük.,['positive']
+30,Tesekkur ediyorum.,['positive']
+31,Tavsiye bicak arasi yemeniz .,['positive']
+32,Masanin bir ucundan diger ucuna kadar uzaniyir konya mutfagindan farkli lezzetler deneyin fiyatlar uygun geldi .,['positive']
+33,"Çikolatalı Saray muhallebisi , krem karamel ve ayva tatlısından tabaklarca yiyebilirim.","['positive', 'positive', 'positive']"
+34,Bu konuda onların eline kolay kolay kimse su süremez.,['positive']
+35,Çok açsanız pilav üstü döneri deneminizi tavsiye ederim.,['positive']
+36,Sadece teras katı oturulabilir olan bi şubesi.,['negative']
+37,Diğer katlara pekte gerek yokmuş.,['negative']
+38,Çalışanlar oldukca ilgili alakalı .,['positive']
+39,fiyatlar aynı yani normal .,['neutral']
+40,teras katında tatlınızı yiyip çayınızı yudumlayabilirsiniz.,['positive']
+41,Denemek lazim - Ögle arasinda is yerinden arkadaslar ile gittik.,['positive']
+42,"Biçak arasi iyi, saç arasi mükemmel, garsonlar ilgisiz ve fiyatlar uçmus.","['negative', 'positive', 'positive', 'negative']"
+43,Ama gene de gitmek lazim.,['positive']
+44,Etli ekmeğinin Konya'daki mekanlardan bile daha lezzetli olduğunu düşündüğüm mekan/dı.,['positive']
+45,Başakşehir şubesi açıldığından beri o eski Ovalı değil.,['negative']
+46,mekanın yeri çok güzel.,['positive']
+47,çalışanları kibar.,['positive']
+48,lezzetine güvenebileceğiniz bir zincir zaten.,['positive']
+49,deniz ürünleri salatası çok lezzetli.,['positive']
+50,"ahtapot, karides, kalamar, somon füme ; ne ararsanız var içinde.",['positive']
+51,sağlıklı ve hafif.,['positive']
+52,Toplantı için Kalkıp Florya Lara kadar gidip beklentiye bağlı olarak hayal kırıklığı yaratan mekan.,['negative']
+53,Dışarıdan lüks gibi görünse de artık tarihi geçmiş mekan görüntüsü vermekte ve içerideki aksesuarlar göz yormakta.,"['negative', 'negative']"
+54,"Yemeklere gelince döner tatsız tuzsuz, et köfte Pınar'ın et köftesinden daha kötü, kırmızı et hafifçe sert ve keyifsizdi.","['negative', 'negative', 'negative']"
+55,Belki künefe iyidir diye düşünürken künefenin peynirden yoksun olması hayal kırıklığımızı üst seviyeye çıkardı.,['negative']
+56,Illa kebap yemek istiyorsanız başka tercihlere yönelin derim...,['negative']
+57,Uzun zamandir gitmemistim ve iyi ki gitmemisim.,['negative']
+58,Gercekten lahmacunu tavugu berbatti ve gelen hesap 2 kisi 169tl.,"['negative', 'negative']"
+59,"Hic tavsiye etmiyorum , design deseniz zaten ic karartici ve demode",['negative']
+60,100 lira fix menuye gittik 8 kisi 1600 tl odedik 1 buyuk raki ictik toplamda.,['negative']
+61,kahve ve caylar 200 tl tutmus heryerde cay ikramdir hemde 1600 tl hesap verene uzak durun,['negative']
+62,Eğer deniz kenarında yer bulabilirseniz oturumu çok keyifli.,['positive']
+63,Mekan çok büyük olduğu için personel yetişemiyo ve servis sürekli aksıyor.,"['negative', 'negative']"
+64,Yemekleri gayet güzel,['positive']
+65,İftar servisini çok zayıf bulduk.,['negative']
+66,500 kişiye kaliteli servis verilemiyorsa 300 kişiye daha iyi şartlar sağlanabilir diye düşünüyorum.,['negative']
+67,Ramazanda tavsiye etmiyorum.,['negative']
+68,Bana sushiyi sevdiren tek yer diyebilirim çalışanları o kadar güler yüzlü ki.,['positive']
+69,Bu fiyata böyle bir memnuniyet çok az rastlanacak şey .,['positive']
+70,Mekan hiç boğucu degil gayet güzel,['positive']
+71,Tabi ki et yemekler hepsi cok harika.,['positive']
+72,Tarihi bina da begendim.,['positive']
+73,Tereyağlı Mercimek Çorbası ve Bıçak arası muhteşem ikili diyebilirim.,"['positive', 'positive']"
+74,Her Şubesi'nde aynı kaliteyi yakalamışlar.,['positive']
+75,Sadece döner olayını pek yapamıyorlar.,['negative']
+76,Servis saatlerinde bolca kalabalik olan ilgili bir mekan ambiyans olarak farkli bir lezzet tadacaginizi size bildiriyor.,['positive']
+77,Farkli tatlar icin dusunulebilinir.,['positive']
+78,Tavuklarin iri dogranmis olmasi pek hos degil.,['negative']
+79,Pilavda su tadi aliyorsunuz.,['negative']
+80,"Bir de üstüne 9,5 TL veriyorsunuz.",['negative']
+81,Tercih etmem - Pazar günü kahvalti için gittim.,['negative']
+82,Daha önce Nisantasi'nda ki subeye gitmistim ve inanilmaz güzel kahvalti etmistim ve memnun kalmistim.,['positive']
+83,Ama bu sefer Beyoglu'nda ki subede hiç memnun kalmadim.,['negative']
+84,Manzarasi yat limani Garsonlari ilgi alakali ozellikle Ege bey.,['positive']
+85,Ancak fiyatlar ile yemek karsilastirmasi bence uyumsuz yuksek standartlar icermekte Ayni mekanda daha çok çeşit var İsim satıyor birazz Dikkat !,['negative']
+86,"Konumu, manzarası, lezzeti şahane...","['positive', 'positive', 'positive']"
+87,Bir arkadaşımın ısrarı ile lahmacun yemiştim ki benim yediğim en güzel lahmacundu...,['positive']
+88,Kebapları zaten muazzam :,['positive']
+89,Hepsi harika...,['positive']
+90,Ayrıca sigara içmeyenlerin dostu olması dolayısıyla bu mekan benim en favorilerimden :,['positive']
+91,Pırıl pırıl salonlar Güler yüzlü ve temiz garsonlar.,"['positive', 'positive']"
+92,Etler için yoruma gerek yok.,['positive']
+93,"Özellikle favorim bakır kapta gelen kuzu kol , bunu bu şekilde başka yerde yemeniz olanaksız.",['positive']
+94,"zeytinyağlılar süper özellikle imambayıldı titretiyor insanı,alkol içmeyecekseniz mukakkak koyu ayranı içmenizi tavsiye ederim.","['positive', 'positive', 'positive']"
+95,İş fiyatlara gelince öyle bir mekan için normal fakat beyti kalitesinde Avrupa veya Amerika'da yer iseniz 3 kat fazlasını ödemek zorundasınız.,['neutral']
+96,Ara sira gidilebilecek bir lokanta.,['neutral']
+97,"Susileri belli bir seviyede her zaman, asagi düsmüyor.",['positive']
+98,Çin yemekleri de fena degil.,['positive']
+99,öğle ve akşam yemekleriyle her şubesinde aynı kaliteyi yakalamış mekan.,['positive']
+100,tatlılarını övmeye gerek bile görmüyorum.,['positive']
+101,yazın dondurması da denenmeli.,['positive']
+102,Sütlü tatlilari mükemmel diyebilirim.,['positive']
+103,Çayi güzel.,['positive']
+104,Döneri çogu insan tarafindan sevilmese de ben seviyorum.,['positive']
+105,Ama iskenderi güzel degil.,['negative']
+106,Sos isini beceremiyorlar.,['negative']
+107,Yanindaki yogurt güzel ama.,['positive']
+108,Bazen gereksiz derecede çok kalabalik olabiliyor.,['negative']
+109,Kebap ve Et restoranları aleminde sıkça karşılaşılan lezzet ve ambiyans paradoksunu çözmüş bir mekan.,"['positive', 'positive']"
+110,Lahmacun ve içliköfte iyi fakat dolmaları Antep usulünde İstanbul'da yediklerim arasında en iyilerdendi.,"['positive', 'positive']"
+111,"Etler malzeme, marinasyon, pişirme ve sunum açısından çok başarılı.","['positive', 'positive']"
+112,Özellikle fıstıklı kebap favorim.,['positive']
+113,Katmer de muazzam.,['positive']
+114,Ambiyans ve dekorasyon titizlikle tasarlanmış olan bu mekanda menüye bağlı kalmayatak tamamen sizin isteklerinize göre sipariş verebiliyorsunuz.,"['positive', 'positive']"
+115,"Manzara süper,yemekler fena değil ama porsiyon miktarı çook çook azz o fiyatı kesinlikle haketmiyor.","['positive', 'neutral', 'negative']"
+116,çok sıcak çok kalabalık denizden koku geliyor yemekleri orta garsonlar ilgisiz kahvaltısı zayıf üzerine gidip Saray dan suböreği yedik otopark ücretsiz diyip ücret alıyor,"['negative', 'negative', 'neutral', 'negative']"
+117,Çalışanlar kesinlikle çok nezih.,['positive']
+118,Çayı da güzel yapıyorlar yanına da su böreği .,"['positive', 'positive']"
+119,Tavsiye ederim.,['positive']
+120,Istiklal Caddesi'ne girdiğinizde solda kalıyor.,['neutral']
+121,Deniz kenarında olan bütün mekanların aurası başka tabi adı birde Fenerbahçe olursa...,['positive']
+122,Açıldığından bu yana buranın keyfini çıkarmayı çok seviyorum.,['positive']
+123,Klasik lezzetler...,['positive']

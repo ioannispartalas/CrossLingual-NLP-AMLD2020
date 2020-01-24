@@ -51,12 +51,21 @@ def emb2numpy(embeddings_dico):
         values.append(embeddings_dico[k])
     return keys,np.array(values)
 
-# Function to sort the array of embeddings according to the index
-# of the vocabulary.
-# Arguments:
-# X_emb: the embeddings dictionary which holds a vector for each word
-# word2index: mapping of word to index after fitting the vocabulary of the documents
+
 def sort_embeddings(X_emb,word2index):
+    """Function to sort the array of embeddings according to the index
+    of the vocabulary.
+    
+    
+    Arguments:
+    ------------
+    X_emb: the embeddings dictionary which holds a vector for each word
+    word2index: mapping of word to index after fitting the vocabulary of the documents
+    
+    Returns:
+    ------------
+    A numpy array of same shape with the sorted embeddings.
+    """
     sorted_word2index = sorted(word2index.items(), key=lambda kv: kv[1])
     sortedEmbed  = []
     for k in sorted_word2index:

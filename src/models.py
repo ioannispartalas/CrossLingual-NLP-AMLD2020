@@ -14,7 +14,7 @@ home = expanduser("~")
 os.environ.setdefault("LASER",home+"/projects/LASER/")
 assert os.environ.get('LASER'), 'Please set the enviornment variable LASER'
 LASER = os.environ['LASER']
-print(LASER)
+
 sys.path.append(LASER + '/source/lib')
 sys.path.append(LASER+"/source/")
 
@@ -70,7 +70,7 @@ class Doc2Laser(BaseEstimator, TransformerMixin):
     """
     def __init__(self,lang=None):
         """
-        lang: the language to encode
+        lang: the language to encode, for example "en" (english)
         """
         self.lang = lang
 
@@ -144,12 +144,30 @@ class Doc2Laser(BaseEstimator, TransformerMixin):
             return X
     
     def transform(self, X):
+        """
+        This function transforms the raw representations in the iterable X using LASER.
+        
+        Arguments:
+        ----------
+        X: an iterable of the raw documents.
+        
+        Returns:
+        ----------
+        A numpy array of shape (X.shape[0],1024)
+        """
         X_laser = self._vectorize(X)
         return X_laser
 
     
 class nBowClassifier(BaseEstimator, ClassifierMixin):
     """Model that averages the cross-lingual representations in the document and learns a classifier on top of it.
+    
+    Arguments:
+    ----------
+    base_classifier: the classifier that will be used to train on the source language. It accepts any classifier that implements fit and predict API of scikit-learn.
+    V_source: a numpy array that contains the vector representation of the source documents.
+    V_target: a numpy array that contains the vector representation of the target documents.
+    params: optional parameters for the classifier.
     """
 
     def __init__(self, base_classifier = KNeighborsClassifier(n_neighbors=2),V_source=None,V_target=None,params={}):

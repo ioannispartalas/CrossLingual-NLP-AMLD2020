@@ -6,7 +6,14 @@ from collections import Counter
 from sklearn.metrics import accuracy_score,f1_score
 
 class Dataset:
-    """Experiment class, that reads data in raw format and prints stats."""
+    """Experiment class, that reads data in raw format and prints stats.
+    
+    Arguments:
+    ----------
+    path: the path to the datasets
+    source_lang: the source language, e.g. "en" for english
+    target_lang: the target language, e.g. "nl" for dutch
+    """
     def __init__(self, path,source_lang, target_lang):
         self.source_lang = source_lang
         self.target_lang = target_lang
@@ -33,8 +40,17 @@ class Dataset:
         self.train, self.y_train = training.text.values, training.sentiment.values
         self.test, self.y_test = test.text.values, test.sentiment.values
 
-    # Function to load the Cross-lingual embeddings for each language
+    
     def load_cl_embeddings(self,path_to_embeddings,dimension,skip_header):
+        """
+        Function to load the Cross-lingual embeddings for each language.
+        
+        Arguments:
+        ----------
+        path_to_embeddings: path to the cross-lingual embeddings
+        dimension: an integer to set the dimension of the embeddings
+        skip_header: boolean, whether to skip the first line or not
+        """
         self.vocab_source = fit_vocab(self.train)
         self.vocab_target = fit_vocab(self.test)
         
@@ -61,7 +77,7 @@ class Runner:
         
     def score(self, preds):
         #return accuracy_score(exp.y_test, preds)
-        return f1_score(self.experiment.y_test, preds,average="binary",pos_label="negative")
+        return f1_score(self.experiment.y_test, preds,average="binary")
     
     def eval_system(self,prefit=False,**kwargs):
         if prefit==False:

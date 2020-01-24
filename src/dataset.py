@@ -77,7 +77,7 @@ class Runner:
         
     def score(self, preds):
         #return accuracy_score(exp.y_test, preds)
-        return f1_score(self.experiment.y_test, preds,average="binary")
+        return f1_score(self.experiment.y_test, preds,average="binary",pos_label="positive")
     
     def eval_system(self,prefit=False,**kwargs):
         if prefit==False:

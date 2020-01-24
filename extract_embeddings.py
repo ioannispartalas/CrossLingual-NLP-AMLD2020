@@ -5,7 +5,7 @@ f = codecs.open("numberbatch-17.06.txt", 'r', encoding='utf8')
 f.readline()
 dimension = 300
 
-langs_to_extract = ["en","fr","es","nl","ru"]
+langs_to_extract = ["en","fr","es","nl","ru","tr"]
 
 
 files_dico = {}

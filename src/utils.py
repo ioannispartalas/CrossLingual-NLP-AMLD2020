@@ -89,6 +89,6 @@ def load_language(language = 'en', train_or_test = 'train'):
     label_fn = path  + language + '_' + train_or_test + '_labels_adan.txt'
     labels = pd.read_csv(label_fn,header=None).values  
     #kk = np.squeeze(np.where(labels != 2))
-    #feat = np.load(feat_fn)[kk]
+    feat = np.load(feat_fn)
     #labels = labels[kk]
     return feat,labels

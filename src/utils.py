@@ -83,7 +83,7 @@ def load_language(language = 'en', train_or_test = 'train'):
     """
     load dataset for a particular language and dataset (train or test)
     """
-    path = os.environ['WORKDIR']
+    path = os.environ['WORKDIR'] + 'data/laser'
     feat_fn =  path  + language + '_laser_' + train_or_test + '.npy'
     label_fn = path  + language + '_' + train_or_test + '_labels_adan.txt'
     labels = np.loadtxt(label_fn) 

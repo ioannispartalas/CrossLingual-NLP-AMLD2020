@@ -1,6 +1,7 @@
 from sklearn.feature_extraction.text import CountVectorizer
 import codecs
 import numpy as np
+import os
 
 def load_embeddings(path, dimension,skip_header=True,vocab=None):
     """Simple function to load embeddings from txt file where one line one word embeddings in the form 

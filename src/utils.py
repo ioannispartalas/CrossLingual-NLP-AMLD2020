@@ -92,3 +92,19 @@ def load_language(language = 'en', train_or_test = 'train'):
     feat = np.load(feat_fn)
     #labels = labels[kk]
     return feat,labels
+
+def load_training_languages(languages):
+  """ 
+  return concatenated features and labels for all languages specified in the list languages
+  """
+  x_train,y_train= [],[]
+
+  for lang in languages:
+    x_tr,y_tr = load_language(lang,'train')  
+    x_train.append(x_tr)
+    y_train.append(y_tr)
+
+  x_train =np.vstack(x_train)
+  y_train =np.hstack(y_train)
+  return x_train,y_train
+

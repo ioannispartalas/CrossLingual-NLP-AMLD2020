@@ -122,7 +122,7 @@ def model_evaluation(model, languages):
     x_test,y_test = load_language( lang, 'test')
     y_pred = model.predict(x_test)
 
-    F1 = f1_score (y_test,y_pred, pos_label = 'positive')
+    F1 = f1_score (y_test,y_pred, pos_label = 'negative')
     CONF =  pd.DataFrame(confusion_matrix(y_test,y_pred),index = ['TRUE NEGATIVE','TRUE POSITIVE'],columns=('PRED NEGATIVE','PRED POSITIVE'))
 
     EVAL[lang] = (F1,CONF)

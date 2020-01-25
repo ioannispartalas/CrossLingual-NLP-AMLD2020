@@ -140,5 +140,5 @@ def get_statistics(languages):
          print('Training:'  , c.most_common(10), ', total =',sum(c.values())  )
          _,y = load_language( lang, 'test')
          c = Counter(y)
-         print('Test:'  , c.most_common(10), ', total =',sum(c.values())  )
+         print('Test:'  , c.most_common(10), ', total =',sum(c.values()), '\n'  )
   

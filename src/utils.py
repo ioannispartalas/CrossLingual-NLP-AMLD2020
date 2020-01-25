@@ -1,4 +1,5 @@
 from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.metrics import f1_score, confusion_matrix
 import codecs
 import numpy as np
 import os
@@ -108,3 +109,22 @@ def load_training_languages(languages):
   y_train =np.hstack(y_train)
   return x_train,y_train
 
+
+def model_evaluation(model, languages):
+  """
+  Measure F1 score and confusion matrix for the provided model  over test data for the specified languages
+  model must have a predict method returning the classes of the tested data
+  """
+  
+  EVAL = {}
+  for lang in languages:
+    x_test,y_test = load_language( lang, 'test')
+    y_pred = model.predict(x_test)
+
+    F1 = f1_score (y_test,y_pred, pos_label = 'positive')
+    CONF =  pd.DataFrame(confusion_matrix(y_test,y_pred),index = ['TRUE NEGATIVE','TRUE POSITIVE'],columns=('PRED NEGATIVE','PRED POSITIVE'))
+
+    EVAL[lang] = (F1,CONF)
+  for lang, metric in EVAL.items():
+    print(lang,': F1= ', metric[0],'\n', metric[1],'\n')
+  return EVAL

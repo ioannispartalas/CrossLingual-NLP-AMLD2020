@@ -133,7 +133,7 @@ def model_evaluation(model, languages):
 
 def get_statistics(languages):
    for lang in languages:
-         x_test,y_test = load_language( lang, 'test')
-         c = Counter(y_test)
+         _,y = load_language( lang, 'train')
+         c = Counter(y)
          print(lang,': ', c.most_common(10), ', total =',sum(c.values())  )
   

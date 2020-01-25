@@ -87,7 +87,7 @@ def load_language(language = 'en', train_or_test = 'train'):
     path = os.environ['WORKDIR'] + 'data/laser/'
     feat_fn =  path  + language + '_laser_' + train_or_test + '.npy'
     label_fn = path  + language + '_' + train_or_test + '_labels_adan.txt'
-    labels = pd.read_csv(label_fn,header=None).values[:,np.newaxis()]  
+    labels = pd.read_csv(label_fn,header=None).values.ravel() 
     #kk = np.squeeze(np.where(labels != 2))
     feat = np.load(feat_fn)
     #labels = labels[kk]

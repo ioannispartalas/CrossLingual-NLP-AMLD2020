@@ -4,6 +4,7 @@ import codecs
 import numpy as np
 import os
 import pandas as pd
+from collections import Counter
 
 def load_embeddings(path, dimension,skip_header=True,vocab=None):
     """Simple function to load embeddings from txt file where one line one word embeddings in the form 
@@ -128,3 +129,11 @@ def model_evaluation(model, languages):
   for lang, metric in EVAL.items():
     print(lang,': F1= ', metric[0],'\n', metric[1],'\n')
   return EVAL
+
+
+def get_statistics(languages):
+   for lang in languages:
+         x_test,y_test = load_language( lang, 'test')
+         c = Counter(y_test)
+         print(lang,': ', c.most_common(10), ', total =',sum(c.values())  )
+  

@@ -78,11 +78,11 @@ def sort_embeddings(X_emb,word2index):
 def format_score(x):
     return "{:.2f}".format(x*100.0)
 
-def load_language(path, language = 'en', train_or_test = 'train'):
+def load_language(language = 'en', train_or_test = 'train'):
     """
     load dataset for a particular language and dataset (train or test)
     """
-    
+    path = os.environ['WORKDIR']
     feat_fn =  path  + language + '_laser_' + train_or_test + '.npy'
     label_fn = path  + language + '_' + train_or_test + '_labels_adan.txt'
     labels = np.loadtxt(label_fn) 

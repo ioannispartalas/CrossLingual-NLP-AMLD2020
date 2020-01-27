@@ -43,7 +43,7 @@ These datasets use xml format but we will need to convert them in csv for this w
 ```bash
 python semeval2csv.py --infile INFILE --outfile OUTFILE [--train]
 ```
-where you just need to specify the input and output files respectively and whether it is a train or test set. Crate a datasets directlry in data and put their the files. You will have to change accordingly the naming convention for loading the files in the Dataset class.
+where you just need to specify the input and output files respectively and whether it is a train or test set. Create a directory named ***datasets*** under data and put their the generated csv files. You will have to change accordingly the naming convention for loading the files in the Dataset class.
 
 ## Structure of the workshop
 The workshop structure is as follows:

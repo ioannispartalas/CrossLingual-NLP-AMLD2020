@@ -33,7 +33,17 @@ You will need to install the [LASER](https://github.com/facebookresearch/LASER) 
 bash install_laser.sh
 ```
 
-Finally, download the dataset that we will use during the workshop:
+Finally, download the dataset that we will use during the workshop from the [Semeval 2016 competition on aspect-based sentiment analysis](http://alt.qcri.org/semeval2016/task5/index.php?id=data-and-tools). You will need to download the following datasets:
+
+* English, Dutch, Russian, Spanish and Turkish from the domain restaurants subtask 1.
+* Arabic from the Hotels domain subtask 1.
+* The test data with the gold annotations for subtask 1.
+
+These datasets use xml format but we will need to convert them in csv for this workshop. You can do that by executing the following script that you will find in the src folder:
+```bash
+python semeval2csv.py --infile INFILE --outfile OUTFILE [--train]
+```
+where you just need to specify the input and output files respectively and whether it is a train or test set. Crate a datasets directlry in data and put their the files. You will have to change accordingly the naming convention for loading the files in the Dataset class.
 
 ## Structure of the workshop
 The workshop structure is as follows:

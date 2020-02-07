@@ -66,13 +66,16 @@ class Doc2Laser(BaseEstimator, TransformerMixin):
     
     Parameters:
     -------------
-    lang: the language to encode
+    lang: string, the language to encode
+    cpu: boolean, whether to use cpu of gpu
     """
-    def __init__(self,lang=None):
+    def __init__(self,lang=None,cpu=True):
         """
         lang: the language to encode, for example "en" (english)
+        cpu: boolean, whether to use cpu of gpu
         """
         self.lang = lang
+        self.cpu = cpu
 
     def fit(self, X, y=None,**fit_params):
         return self
@@ -103,7 +106,7 @@ class Doc2Laser(BaseEstimator, TransformerMixin):
                                   max_sentences=None,
                                   max_tokens=12000,
                                   sort_kind='mergesort',
-                                  cpu=True)
+                                  cpu=self.cpu)
         with tempfile.TemporaryDirectory() as tmp:
             tmpdir = Path(tmp)
 
